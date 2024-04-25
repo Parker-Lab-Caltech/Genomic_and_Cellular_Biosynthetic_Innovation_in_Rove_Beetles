@@ -1,0 +1,7 @@
+contig_143_pilon	RepeatMasker	similarity	1858	4128	 0.8	+	.	Target "Motif:rnd-5_family-549" 1 675	contig_143_pilon	1701	1901	44
+hic_scaffold_1_pilon	RepeatMasker	similarity	7236222	7242630	 2.5	+	.	Target "Motif:rnd-5_family-549" 1 675	hic_scaffold_1_pilon	7235598	7236311	90
+hic_scaffold_2_pilon	RepeatMasker	similarity	4752614	4754527	 5.2	-	.	Target "Motif:rnd-5_family-549" 1 675	hic_scaffold_2_pilon	4752584	4752622	9
+hic_scaffold_31_pilon	RepeatMasker	similarity	13891	25214	 3.0	+	.	Target "Motif:rnd-5_family-549" 1 675	hic_scaffold_31_pilon	23395	23404	9
+hic_scaffold_3_pilon	RepeatMasker	similarity	11939990	11941370	 1.2	+	.	Target "Motif:rnd-5_family-549" 1 675	hic_scaffold_3_pilon	11941369	11941575	1
+hic_scaffold_3_pilon	RepeatMasker	similarity	11945387	11953179	 1.2	+	.	Target "Motif:rnd-5_family-549" 1 675	hic_scaffold_3_pilon	11945380	11945440	54
+hic_scaffold_8_pilon	RepeatMasker	similarity	7877132	7877542	 4.8	-	.	Target "Motif:rnd-5_family-549" 125 547	hic_scaffold_8_pilon	7876832	7877152	21

@@ -1,0 +1,15 @@
+sample	condition	segment	machine	ext_method	company
+23395	control	seg6	HiSeq_2500	TRIZOL	caltech
+23394	control	seg6	HiSeq_2500	TRIZOL	caltech
+23393	control	seg6	HiSeq_2500	NEBNext	caltech
+23391	control	seg6	HiSeq_2500	TRIZOL	caltech
+23390	D1	seg7	HiSeq_2500	NEBNext	caltech
+23389	D1	seg7	HiSeq_2500	NEBNext	caltech
+23388	D1	seg7	HiSeq_2500	NEBNext	caltech
+23387	D1	seg7	HiSeq_2500	NEBNext	caltech
+23385	D1	seg7	HiSeq_2500	NEBNext	caltech
+23396	D2	seg7	HiSeq_2500	NEBNext	caltech
+23397	D2	seg7	HiSeq_2500	NEBNext	caltech
+23398	D2	seg7	HiSeq_2500	NEBNext	caltech
+23399	D2	seg7	HiSeq_2500	NEBNext	caltech
+23400	D2	seg7	HiSeq_2500	NEBNext	caltech

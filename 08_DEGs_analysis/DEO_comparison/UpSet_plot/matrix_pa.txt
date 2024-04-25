@@ -1,0 +1,16 @@
+Set	Aleo_d1	Aleo_d2	Dcor_d1	Dcor_d2
+AleoD1	1	0	0	0
+AleoD2	0	1	0	0
+DcorD1	0	0	1	0
+DcorD2	0	0	0	1
+D1_only	1	0	1	0
+D2_only	0	1	0	1
+Aleo_only	1	1	0	0
+mixedDA	0	1	1	0
+Dcor_only	0	0	1	1
+mixedAD	1	0	0	1
+D2_3a	0	1	1	1
+D2_3b	1	1	0	1
+D1_3a	1	0	1	1
+D1_3b	1	1	1	0
+allcombo	1	1	1	1

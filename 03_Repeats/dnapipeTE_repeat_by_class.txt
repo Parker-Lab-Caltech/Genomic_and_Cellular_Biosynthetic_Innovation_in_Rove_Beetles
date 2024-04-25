@@ -1,0 +1,386 @@
+Class	Organism	Per_dnaPipeTE_genome
+Dc-Sat1	Agrilus	0
+LTR	Agrilus	0.02301748
+LINE	Agrilus	0.035622445
+SINE	Agrilus	1.60067E-05
+DNA	Agrilus	0.033821793
+Helitron	Agrilus	0.003341808
+rRNA	Agrilus	0.000572807
+Low_Complexity/Satellites	Agrilus	0.002298429
+Simple_repeat	Agrilus	0.041660902
+Unknown	Agrilus	0.320619359
+non-repeat	Agrilus	0.539028972
+Dc-Sat1	Photinus	0
+LTR	Photinus	0.018174554
+LINE	Photinus	0.018781489
+SINE	Photinus	0.000343958
+DNA	Photinus	0.035414932
+Helitron	Photinus	0.005605597
+rRNA	Photinus	0.000594292
+Low_Complexity/Satellites	Photinus	0.003432386
+Simple_repeat	Photinus	0.023475472
+Unknown	Photinus	0.2096918
+non-repeat	Photinus	0.684485519
+Dc-Sat1	Aethina	0
+LTR	Aethina	0.019313954
+LINE	Aethina	0.065749523
+SINE	Aethina	0.006991634
+DNA	Aethina	0.004396768
+Helitron	Aethina	0.002117659
+rRNA	Aethina	0.00459152
+Low_Complexity/Satellites	Aethina	0.008032858
+Simple_repeat	Aethina	0.08950432
+Unknown	Aethina	0.485912919
+non-repeat	Aethina	0.313388846
+Dc-Sat1	Dendroctonus	0
+LTR	Dendroctonus	0.020734405
+LINE	Dendroctonus	0.039047703
+SINE	Dendroctonus	0
+DNA	Dendroctonus	0.013284606
+Helitron	Dendroctonus	0.001125514
+rRNA	Dendroctonus	0.003119323
+Low_Complexity/Satellites	Dendroctonus	0.002209925
+Simple_repeat	Dendroctonus	0.004577011
+Unknown	Dendroctonus	0.183356983
+non-repeat	Dendroctonus	0.73254453
+Dc-Sat1	Leptinotarsa	0
+LTR	Leptinotarsa	0.031758257
+LINE	Leptinotarsa	0.096138379
+SINE	Leptinotarsa	0.000559863
+DNA	Leptinotarsa	0.104304032
+Helitron	Leptinotarsa	0.005654542
+rRNA	Leptinotarsa	0.000740911
+Low_Complexity/Satellites	Leptinotarsa	0.004923107
+Simple_repeat	Leptinotarsa	0.019226514
+Unknown	Leptinotarsa	0.233305076
+non-repeat	Leptinotarsa	0.503389319
+Dc-Sat1	Anoplophora	0
+LTR	Anoplophora	0.033471522
+LINE	Anoplophora	0.056530885
+SINE	Anoplophora	9.93328E-05
+DNA	Anoplophora	0.082357802
+Helitron	Anoplophora	0.001506669
+rRNA	Anoplophora	5.55475E-05
+Low_Complexity/Satellites	Anoplophora	0.004966255
+Simple_repeat	Anoplophora	0.028111725
+Unknown	Anoplophora	0.220336119
+non-repeat	Anoplophora	0.572564143
+Dc-Sat1	Onthophagus	0
+LTR	Onthophagus	0.012003863
+LINE	Onthophagus	0.033438324
+SINE	Onthophagus	1.37402E-05
+DNA	Onthophagus	0.055471166
+Helitron	Onthophagus	0.000331551
+rRNA	Onthophagus	0.000174325
+Low_Complexity/Satellites	Onthophagus	0.004550054
+Simple_repeat	Onthophagus	0.024108431
+Unknown	Onthophagus	0.249660312
+non-repeat	Onthophagus	0.620248233
+Dc-Sat1	Nicrophorus	0
+LTR	Nicrophorus	0.001450363
+LINE	Nicrophorus	0.00792705
+SINE	Nicrophorus	0
+DNA	Nicrophorus	0.012247218
+Helitron	Nicrophorus	5.44616E-05
+rRNA	Nicrophorus	0.002130221
+Low_Complexity/Satellites	Nicrophorus	0.000917144
+Simple_repeat	Nicrophorus	0.007703981
+Unknown	Nicrophorus	0.119323785
+non-repeat	Nicrophorus	0.848245777
+Dc-Sat1	Tachinus	0
+LTR	Tachinus	0.006460711
+LINE	Tachinus	0.054973262
+SINE	Tachinus	0.002682275
+DNA	Tachinus	0.009559809
+Helitron	Tachinus	0.000804868
+rRNA	Tachinus	0.011568893
+Low_Complexity/Satellites	Tachinus	0.008347039
+Simple_repeat	Tachinus	0.025777206
+Unknown	Tachinus	0.251707348
+non-repeat	Tachinus	0.628118589
+Dc-Sat1	Sepedophilus	0
+LTR	Sepedophilus	0.015301111
+LINE	Sepedophilus	0.046068023
+SINE	Sepedophilus	0.000491293
+DNA	Sepedophilus	0.041249521
+Helitron	Sepedophilus	0.002391941
+rRNA	Sepedophilus	0.009290463
+Low_Complexity/Satellites	Sepedophilus	0.017481482
+Simple_repeat	Sepedophilus	0.054213829
+Unknown	Sepedophilus	0.272645237
+non-repeat	Sepedophilus	0.5408671
+Dc-Sat1	Coproporus	0.000283146
+LTR	Coproporus	0.022265636
+LINE	Coproporus	0.023887913
+SINE	Coproporus	0.000301961
+DNA	Coproporus	0.114686314
+Helitron	Coproporus	0.00121466
+rRNA	Coproporus	0.005054753
+Low_Complexity/Satellites	Coproporus	0.004861874
+Simple_repeat	Coproporus	0.0234018
+Unknown	Coproporus	0.202900817
+non-repeat	Coproporus	0.601141126
+Dc-Sat1	Gymnusa	0
+LTR	Gymnusa	0.016920543
+LINE	Gymnusa	0.037856054
+SINE	Gymnusa	0.001336301
+DNA	Gymnusa	0.040407197
+Helitron	Gymnusa	0.000567939
+rRNA	Gymnusa	0.020425731
+Low_Complexity/Satellites	Gymnusa	0.006239851
+Simple_repeat	Gymnusa	0.028332968
+Unknown	Gymnusa	0.359680378
+non-repeat	Gymnusa	0.488233038
+Dc-Sat1	Deinopsis	0
+LTR	Deinopsis	0.012216337
+LINE	Deinopsis	0.008013861
+SINE	Deinopsis	0.000244397
+DNA	Deinopsis	0.046417013
+Helitron	Deinopsis	0.00041738
+rRNA	Deinopsis	0.000863598
+Low_Complexity/Satellites	Deinopsis	0.006675915
+Simple_repeat	Deinopsis	0.018081148
+Unknown	Deinopsis	0.315566891
+non-repeat	Deinopsis	0.591503461
+Dc-Sat1	Adinopsis	0
+LTR	Adinopsis	0.007791636
+LINE	Adinopsis	0.003337593
+SINE	Adinopsis	3.99755E-05
+DNA	Adinopsis	0.022965124
+Helitron	Adinopsis	0.003797655
+rRNA	Adinopsis	0.011648263
+Low_Complexity/Satellites	Adinopsis	0.005649442
+Simple_repeat	Adinopsis	0.018466494
+Unknown	Adinopsis	0.168208544
+non-repeat	Adinopsis	0.758095274
+Dc-Sat1	Cypha	0
+LTR	Cypha	0.026178777
+LINE	Cypha	0.004728836
+SINE	Cypha	0
+DNA	Cypha	0.021399229
+Helitron	Cypha	0.001834513
+rRNA	Cypha	0.003522012
+Low_Complexity/Satellites	Cypha	0.002246529
+Simple_repeat	Cypha	0.017776662
+Unknown	Cypha	0.422877033
+non-repeat	Cypha	0.49943641
+Dc-Sat1	Holobus	0
+LTR	Holobus	0.069849492
+LINE	Holobus	0.008787704
+SINE	Holobus	0.00023832
+DNA	Holobus	0.020973941
+Helitron	Holobus	0.00272222
+rRNA	Holobus	0.010686798
+Low_Complexity/Satellites	Holobus	0.006841049
+Simple_repeat	Holobus	0.013590623
+Unknown	Holobus	0.210457501
+non-repeat	Holobus	0.655852351
+Dc-Sat1	Oligota	0
+LTR	Oligota	0.010975202
+LINE	Oligota	0.00651268
+SINE	Oligota	1.03624E-05
+DNA	Oligota	0.04253371
+Helitron	Oligota	0.00047946
+rRNA	Oligota	0.007293984
+Low_Complexity/Satellites	Oligota	0.003276646
+Simple_repeat	Oligota	0.016501642
+Unknown	Oligota	0.268810845
+non-repeat	Oligota	0.643605468
+Dc-Sat1	Aleochara 3	0
+LTR	Aleochara 3	0.009914689
+LINE	Aleochara 3	0.003911031
+SINE	Aleochara 3	0.000230935
+DNA	Aleochara 3	0.015826684
+Helitron	Aleochara 3	0.002599577
+rRNA	Aleochara 3	0.03601322
+Low_Complexity/Satellites	Aleochara 3	0.002096054
+Simple_repeat	Aleochara 3	0.005224119
+Unknown	Aleochara 3	0.210049643
+non-repeat	Aleochara 3	0.714134047
+Dc-Sat1	Aleochara 2	0
+LTR	Aleochara 2	0.005232684
+LINE	Aleochara 2	0.005512594
+SINE	Aleochara 2	5.84628E-06
+DNA	Aleochara 2	0.007924073
+Helitron	Aleochara 2	0.005867681
+rRNA	Aleochara 2	0.002441834
+Low_Complexity/Satellites	Aleochara 2	0.000705301
+Simple_repeat	Aleochara 2	0.004738074
+Unknown	Aleochara 2	0.308019746
+non-repeat	Aleochara 2	0.659552167
+Dc-Sat1	Aleochara 1	0
+LTR	Aleochara 1	0.005768448
+LINE	Aleochara 1	0.013148435
+SINE	Aleochara 1	6.84752E-05
+DNA	Aleochara 1	0.013350764
+Helitron	Aleochara 1	0.012891415
+rRNA	Aleochara 1	0.01596301
+Low_Complexity/Satellites	Aleochara 1	0.000372643
+Simple_repeat	Aleochara 1	0.01597175
+Unknown	Aleochara 1	0.087938473
+non-repeat	Aleochara 1	0.834526588
+Dc-Sat1	Leptusa	0
+LTR	Leptusa	0.011092147
+LINE	Leptusa	0.011873011
+SINE	Leptusa	0.000244799
+DNA	Leptusa	0.01448625
+Helitron	Leptusa	0.000500736
+rRNA	Leptusa	0.001150782
+Low_Complexity/Satellites	Leptusa	0.001817666
+Simple_repeat	Leptusa	0.012370768
+Unknown	Leptusa	0.133798043
+non-repeat	Leptusa	0.812665799
+Dc-Sat1	Oxypoda	0
+LTR	Oxypoda	0.007962612
+LINE	Oxypoda	0.010821873
+SINE	Oxypoda	3.71978E-05
+DNA	Oxypoda	0.006937145
+Helitron	Oxypoda	0.000202543
+rRNA	Oxypoda	0.00534318
+Low_Complexity/Satellites	Oxypoda	0.069896898
+Simple_repeat	Oxypoda	0.014178775
+Unknown	Oxypoda	0.573916919
+non-repeat	Oxypoda	0.310702857
+Dc-Sat1	Liometoxenus	0
+LTR	Liometoxenus	0.272463517
+LINE	Liometoxenus	0.007916053
+SINE	Liometoxenus	0.000609568
+DNA	Liometoxenus	0.035200742
+Helitron	Liometoxenus	0.002816081
+rRNA	Liometoxenus	0.00780559
+Low_Complexity/Satellites	Liometoxenus	0.001979019
+Simple_repeat	Liometoxenus	0.022559296
+Unknown	Liometoxenus	0.133317268
+non-repeat	Liometoxenus	0.515332867
+Dc-Sat1	Myllaena	0
+LTR	Myllaena	0.019420006
+LINE	Myllaena	0.004902125
+SINE	Myllaena	0
+DNA	Myllaena	0.028816426
+Helitron	Myllaena	0.004694444
+rRNA	Myllaena	0.004724677
+Low_Complexity/Satellites	Myllaena	0.001165521
+Simple_repeat	Myllaena	0.012036416
+Unknown	Myllaena	0.245527484
+non-repeat	Myllaena	0.678712902
+Dc-Sat1	Falagria	0
+LTR	Falagria	0.023769852
+LINE	Falagria	0.015849348
+SINE	Falagria	0.000725678
+DNA	Falagria	0.027873533
+Helitron	Falagria	0.003687063
+rRNA	Falagria	0.006079231
+Low_Complexity/Satellites	Falagria	0.008436894
+Simple_repeat	Falagria	0.032299129
+Unknown	Falagria	0.161488476
+non-repeat	Falagria	0.719790796
+Dc-Sat1	Lissagria	0
+LTR	Lissagria	0.013256314
+LINE	Lissagria	0.005260343
+SINE	Lissagria	0.00041324
+DNA	Lissagria	0.012106488
+Helitron	Lissagria	3.33019E-05
+rRNA	Lissagria	0.007661524
+Low_Complexity/Satellites	Lissagria	0.000743403
+Simple_repeat	Lissagria	0.0090178
+Unknown	Lissagria	0.622350915
+non-repeat	Lissagria	0.32915667
+Dc-Sat1	Drusilla	0
+LTR	Drusilla	0.017367208
+LINE	Drusilla	0.014156846
+SINE	Drusilla	0.000514457
+DNA	Drusilla	0.031531004
+Helitron	Drusilla	0.010708256
+rRNA	Drusilla	0.005260737
+Low_Complexity/Satellites	Drusilla	0.004000713
+Simple_repeat	Drusilla	0.025132423
+Unknown	Drusilla	0.481178375
+non-repeat	Drusilla	0.410149981
+Dc-Sat1	Earota	0
+LTR	Earota	0.020890863
+LINE	Earota	0.024653067
+SINE	Earota	0.000588803
+DNA	Earota	0.007338248
+Helitron	Earota	0.00344168
+rRNA	Earota	0.011245549
+Low_Complexity/Satellites	Earota	0.001675974
+Simple_repeat	Earota	0.007651511
+Unknown	Earota	0.522381986
+non-repeat	Earota	0.400132319
+Dc-Sat1	Geostiba	0
+LTR	Geostiba	0.014855907
+LINE	Geostiba	0.006931964
+SINE	Geostiba	0
+DNA	Geostiba	0.01639399
+Helitron	Geostiba	0.001224747
+rRNA	Geostiba	0.001154634
+Low_Complexity/Satellites	Geostiba	0.021783859
+Simple_repeat	Geostiba	0.013305259
+Unknown	Geostiba	0.550331451
+non-repeat	Geostiba	0.374018189
+Dc-Sat1	Atheta	0
+LTR	Atheta	0.017117775
+LINE	Atheta	0.011345531
+SINE	Atheta	0.000831419
+DNA	Atheta	0.010768398
+Helitron	Atheta	0.003622442
+rRNA	Atheta	0.002085278
+Low_Complexity/Satellites	Atheta	0.002106291
+Simple_repeat	Atheta	0.07373042
+Unknown	Atheta	0.216819964
+non-repeat	Atheta	0.661572483
+Dc-Sat1	Dalotia 1	0.612785099
+LTR	Dalotia 1	0.001399879
+LINE	Dalotia 1	0.002637977
+SINE	Dalotia 1	0
+DNA	Dalotia 1	0.001956126
+Helitron	Dalotia 1	0.003832826
+rRNA	Dalotia 1	0.020136903
+Low_Complexity/Satellites	Dalotia 1	0.002010019
+Simple_repeat	Dalotia 1	0.005595575
+Unknown	Dalotia 1	0.025120587
+non-repeat	Dalotia 1	0.324525009
+Dc-Sat1	Dalotia 2	0.552861687
+LTR	Dalotia 2	0.003294937
+LINE	Dalotia 2	0.001913179
+SINE	Dalotia 2	0
+DNA	Dalotia 2	0.001932076
+Helitron	Dalotia 2	0.001781006
+rRNA	Dalotia 2	7.56191E-05
+Low_Complexity/Satellites	Dalotia 2	0.000574031
+Simple_repeat	Dalotia 2	0.017506976
+Unknown	Dalotia 2	0.015255515
+non-repeat	Dalotia 2	0.404732689
+Dc-Sat1	Ecitophya	0.000245346
+LTR	Ecitophya	0.025097676
+LINE	Ecitophya	0.020257395
+SINE	Ecitophya	0
+DNA	Ecitophya	0.048946904
+Helitron	Ecitophya	5.85003E-05
+rRNA	Ecitophya	0.024766668
+Low_Complexity/Satellites	Ecitophya	0.002982785
+Simple_repeat	Ecitophya	0.010489083
+Unknown	Ecitophya	0.472502656
+non-repeat	Ecitophya	0.394652988
+Dc-Sat1	Ecitomorpha	0
+LTR	Ecitomorpha	0.022130692
+LINE	Ecitomorpha	0.02537342
+SINE	Ecitomorpha	0.001841638
+DNA	Ecitomorpha	0.03038644
+Helitron	Ecitomorpha	0.002278602
+rRNA	Ecitomorpha	0.022890502
+Low_Complexity/Satellites	Ecitomorpha	0.003634885
+Simple_repeat	Ecitomorpha	0.022180169
+Unknown	Ecitomorpha	0.447119007
+non-repeat	Ecitomorpha	0.422164645
+Dc-Sat1	Ecitodaemon	0
+LTR	Ecitodaemon	0.011714194
+LINE	Ecitodaemon	0.00600576
+SINE	Ecitodaemon	0.006375408
+DNA	Ecitodaemon	0.003402541
+Helitron	Ecitodaemon	5.77127E-05
+rRNA	Ecitodaemon	0.090457501
+Low_Complexity/Satellites	Ecitodaemon	0.000770188
+Simple_repeat	Ecitodaemon	0.027697284
+Unknown	Ecitodaemon	0.387144252
+non-repeat	Ecitodaemon	0.46637516

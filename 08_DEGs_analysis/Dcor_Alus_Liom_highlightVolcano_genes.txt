@@ -1,0 +1,153 @@
+Dcor_gene_id	Dcor_v3_gene_id	Alus_gene_id	Liom_gene_id	Gene_group_dcor	Cell_type_dcor	Gene_group_alus	Cell_type_alus	Gene_group_liom	Cell_type_ltx	Orthogroup	GEP	Annotation
+Dcor_evm.model.ctg18_len_2053367.267	Dcor_evm.model.hic_scaffold_7_pilon.1222	Alus_evm.model.scaffold16658.16	Liom_evm.model.scaffold59787.2	dmd	BQ	dmd	BQ	dmd	BQ	OG0000070	NA	Laccase-5
+Dcor_evm.model.ctg18_len_2053367.267	Dcor_evm.model.hic_scaffold_7_pilon.1222	Alus_evm.model.scaffold16658.16	Liom_evm.model.scaffold15616.1	NA	NA	NA	NA	dmd	BQ	OG0000070	NA	Laccase-5
+Dcor_evm.model.ctg28_len_882067.201	Dcor_evm.model.hic_scaffold_2_pilon.4	Alus_evm.model.scaffold01876.26	Liom_evm.model.scaffold28755.2	meos	BQ	meos	BQ	NA	NA	OG0000586	NA	"Ubiquinone biosynthesis O-methyltransferase, mitochondrial"
+Dcor_evm.model.ctg11_len_5605186.169	Dcor_evm.model.hic_scaffold_6_pilon.1371	Alus_evm.model.scaffold18325.2	Liom_evm.model.scaffold31982.2	MFASN	S	NA	NA	NA	NA	OG0000065	GEP9	Fatty acid synthase
+Dcor_evm.model.ctg11_len_5605186.169	Dcor_evm.model.hic_scaffold_6_pilon.1371	Alus_evm.model.scaffold18325.2	Liom_evm.model.scaffold36335.1	NA	NA	NA	NA	NA	NA	OG0000065	GEP9	Fatty acid synthase
+Dcor_evm.model.ctg12_len_6330523.397	Dcor_evm.model.hic_scaffold_10_pilon.1414	Alus_evm.model.scaffold12252.6	Liom_evm.model.scaffold02320.1	BGLU	BQ	BGLU	BQ	BGLU	BQ	OG0000023	NA	Myrosinase 1
+Dcor_evm.model.ctg12_len_6330523.397	Dcor_evm.model.hic_scaffold_10_pilon.1414	Alus_evm.model.scaffold12252.6	Liom_evm.model.scaffold37298.1	NA	NA	NA	NA	BGLU	BQ	OG0000023	NA	Myrosinase 1
+Dcor_evm.model.ctg22_len_1181805.312	Dcor_evm.model.hic_scaffold_5_pilon.568	Alus_evm.model.scaffold10714.1	Liom_evm.model.scaffold26699.2	UGT	BQ	UGT	BQ	UGT	BQ	OG0000019	NA	UDP-glucuronosyltransferase 2B14
+Dcor_evm.model.ctg6_len_5675906.369	Dcor_evm.model.hic_scaffold_3_pilon.1169	Alus_evm.model.scaffold04379.1	Liom_evm.model.scaffold07588.2	NA	BQ	NA	BQ	NA	NA	OG0005760	NA	ADP-ribosylation factor-binding protein GGA1
+Dcor_evm.model.ctg28_len_882067.231	Dcor_evm.model.hic_scaffold_1_pilon.1147	Alus_evm.model.scaffold05683.8	Liom_evm.model.scaffold48969.1	NA	BQ	NA	BQ	NA	BQ	OG0004372	NA	"Alkaline phosphatase, tissue-nonspecific isozyme"
+Dcor_evm.model.ctg11_len_5605186.54	Dcor_evm.model.hic_scaffold_6_pilon.1484	Alus_evm.model.scaffold05144.12	Liom_evm.model.scaffold19252.2	NA	BQ	NA	G	NA	NA	OG0007577	NA	Anamorsin homolog
+Dcor_evm.model.ctg24_len_2556950.310	Dcor_evm.model.hic_scaffold_2_pilon.360	Alus_evm.model.scaffold05131.3	Liom_evm.model.scaffold32494.1	NA	G	NA	BQ	NA	G	OG0003383	GEP17	Apoptosis-inducing factor 3
+Dcor_evm.model.ctg3_len_6069552.698	Dcor_evm.model.hic_scaffold_3_pilon.697	Alus_evm.model.scaffold05155.1	Liom_evm.model.scaffold11483.1	NA	BQ	NA	BQ	NA	BQ	OG0004663	GEP9	Calreticulin
+Dcor_evm.model.ctg10_len_3669713.79	Dcor_evm.model.hic_scaffold_9_pilon.1319	Alus_evm.model.scaffold14084.1	Liom_evm.model.scaffold10700.1	NA	BQ	NA	BQ	NA	BQ	OG0009366	NA	Coactosin-like protein 
+Dcor_evm.model.ctg5_len_6873940.170	Dcor_evm.model.hic_scaffold_6_pilon.171	Alus_evm.model.scaffold01822.2	Liom_evm.model.scaffold00371.2	NA	BQ	NA	BQ	NA	NA	OG0000869	NA	Cytosolic Fe-S cluster assembly factor NUBP1 homolog
+Dcor_evm.model.ctg1_len_6253557.787	Dcor_evm.model.hic_scaffold_9_pilon.89	Alus_evm.model.scaffold01154.61	Liom_evm.model.scaffold07257.2	NA	BQ	NA	BQ	NA	NA	OG0000869	NA	Cytosolic Fe-S cluster assembly factor NUBP2 homolog
+Dcor_evm.model.ctg19_len_2461079.353	Dcor_evm.model.hic_scaffold_10_pilon.354	Alus_evm.model.scaffold03929.4	Liom_evm.model.scaffold12464.2	NA	BQ	NA	BQ	NA	NA	OG0000893	NA	DNA damage-regulated autophagy modulator protein 1 isoform X2 
+Dcor_evm.model.ctg19_len_2461079.353	Dcor_evm.model.hic_scaffold_10_pilon.354	Alus_evm.model.scaffold03929.4	Liom_evm.model.scaffold60369.1	NA	NA	NA	NA	NA	BQ	OG0000893	NA	DNA damage-regulated autophagy modulator protein 1 isoform X2 
+Dcor_evm.model.ctg19_len_2461079.353	Dcor_evm.model.hic_scaffold_10_pilon.354	Alus_evm.model.scaffold03929.4	Liom_evm.model.scaffold22602.1	NA	NA	NA	NA	NA	NA	OG0000893	NA	DNA damage-regulated autophagy modulator protein 1 isoform X2 
+Dcor_evm.model.ctg19_len_2461079.353	Dcor_evm.model.hic_scaffold_10_pilon.354	Alus_evm.model.scaffold03929.4	Liom_evm.model.scaffold25853.1	NA	NA	NA	NA	NA	NA	OG0000893	NA	DNA damage-regulated autophagy modulator protein 1 isoform X2 
+Dcor_evm.model.ctg30_len_2601835.50	Dcor_evm.model.hic_scaffold_5_pilon.859	Alus_evm.model.scaffold09533.4	Liom_evm.model.scaffold16966.1	NA	BQ	NA	G	NA	BQ	OG0003585	NA	Ectonucleoside triphosphate diphosphohydrolase 5
+Dcor_evm.model.ctg1_len_6253557.1511	Dcor_evm.model.hic_scaffold_7_pilon.623	Alus_evm.model.scaffold04738.1	Liom_evm.model.scaffold55677.1	NA	BQ	NA	BQ	NA	NA	OG0007007	NA	EF-hand calcium-binding domain-containing protein 1
+Dcor_evm.model.ctg1_len_6253557.1511	Dcor_evm.model.hic_scaffold_7_pilon.623	Alus_evm.model.scaffold04738.1	Liom_evm.model.scaffold20081.1	NA	NA	NA	NA	NA	NA	OG0007007	NA	EF-hand calcium-binding domain-containing protein 1
+Dcor_evm.model.ctg17_len_2239276.58	Dcor_evm.model.hic_scaffold_5_pilon.75	Alus_evm.model.scaffold05785.3	Liom_evm.model.scaffold53297.3	NA	BQ	NA	G	NA	BQ	OG0001103	NA	Equilibrative nucleoside transporter 3
+Dcor_evm.model.ctg3_len_6069552.509	Dcor_evm.model.hic_scaffold_3_pilon.512	Alus_evm.model.scaffold10708.7	Liom_evm.model.scaffold43223.2	NA	BQ	NA	BQ	NA	BQ	OG0002126	NA	Ester hydrolase C11orf54 homolog
+Dcor_evm.model.ctg1_len_6253557.413	Dcor_evm.model.hic_scaffold_9_pilon.461	Alus_evm.model.scaffold01125.10	Liom_evm.model.scaffold06557.1	NA	BQ	NA	BQ	NA	BQ	OG0000112	NA	Facilitated trehalose transporter Tret1
+Dcor_evm.model.ctg1_len_6253557.413	Dcor_evm.model.hic_scaffold_9_pilon.461	Alus_evm.model.scaffold01125.10	Liom_evm.model.scaffold40334.1	NA	NA	NA	NA	NA	BQ	OG0000112	NA	Facilitated trehalose transporter Tret1
+Dcor_evm.model.ctg1_len_6253557.413	Dcor_evm.model.hic_scaffold_9_pilon.461	Alus_evm.model.scaffold01125.10	Liom_evm.model.scaffold48248.1	NA	NA	NA	NA	NA	BQ	OG0000112	NA	Facilitated trehalose transporter Tret1
+Dcor_evm.model.ctg1_len_6253557.413	Dcor_evm.model.hic_scaffold_9_pilon.461	Alus_evm.model.scaffold01125.10	Liom_evm.model.scaffold12576.1	NA	NA	NA	NA	NA	BQ	OG0000112	NA	Facilitated trehalose transporter Tret1
+Dcor_evm.model.ctg1_len_6253557.413	Dcor_evm.model.hic_scaffold_9_pilon.461	Alus_evm.model.scaffold01125.10	Liom_evm.model.scaffold36854.1	NA	NA	NA	NA	NA	BQ	OG0000112	NA	Facilitated trehalose transporter Tret1
+Dcor_evm.model.ctg1_len_6253557.413	Dcor_evm.model.hic_scaffold_9_pilon.461	Alus_evm.model.scaffold01125.10	Liom_evm.model.scaffold40314.7	NA	NA	NA	NA	NA	BQ	OG0000112	NA	Facilitated trehalose transporter Tret1
+Dcor_evm.model.ctg1_len_6253557.413	Dcor_evm.model.hic_scaffold_9_pilon.461	Alus_evm.model.scaffold01125.10	Liom_evm.model.scaffold13817.1	NA	NA	NA	NA	NA	BQ	OG0000112	NA	Facilitated trehalose transporter Tret1
+Dcor_evm.model.ctg19_len_2461079.366	Dcor_evm.model.hic_scaffold_10_pilon.366	Alus_evm.model.scaffold00490.5	Liom_evm.model.scaffold28647.1	NA	BQ	NA	BQ	NA	NA	OG0002366	GEP17	"Fructose-1,6-bisphosphatase 1"
+Dcor_evm.model.ctg10_len_3669713.132	Dcor_evm.model.hic_scaffold_9_pilon.1373	Alus_evm.model.scaffold05666.2	Liom_evm.model.scaffold26782.2	NA	BQ	NA	BQ	NA	BQ	OG0000334	NA	"Glucose dehydrogenase [FAD, quinone]"
+Dcor_evm.model.ctg12_len_6330523.64	Dcor_evm.model.hic_scaffold_2_pilon.574	Alus_evm.model.scaffold12498.2	Liom_evm.model.scaffold49504.2	NA	BQ	NA	BQ	NA	NA	OG0000358	NA	"Glucose dehydrogenase [FAD, quinone]"
+Dcor_evm.model.ctg13_len_2339851.212	Dcor_evm.model.hic_scaffold_8_pilon.687	Alus_evm.model.scaffold12122.2	Liom_evm.model.scaffold43707.5	NA	BQ	NA	BQ	NA	BQ	OG0003396	"GEP9, GEP17"	Glucose-6-phosphate 1-dehydrogenase
+Dcor_evm.model.ctg29_len_829942.126	Dcor_evm.model.hic_scaffold_7_pilon.1510	Alus_evm.model.scaffold13289.2	Liom_evm.model.scaffold55235.2	NA	BQ	NA	BQ	NA	BQ	OG0000103	NA	Glutathione S-transferase D7
+Dcor_evm.model.ctg3_len_6069552.815	Dcor_evm.model.hic_scaffold_3_pilon.875	Alus_evm.model.scaffold07644.1	Liom_evm.model.scaffold51442.1	NA	BQ	NA	BQ	NA	NA	OG0005291	NA	Glyoxalase domain-containing protein 4
+Dcor_evm.model.ctg3_len_6069552.815	Dcor_evm.model.hic_scaffold_3_pilon.875	Alus_evm.model.scaffold07644.1	Liom_evm.model.scaffold52658.3	NA	NA	NA	NA	NA	NA	OG0005291	NA	Glyoxalase domain-containing protein 4
+Dcor_evm.model.ctg10_len_3669713.33	Dcor_evm.model.hic_scaffold_9_pilon.1275	Alus_evm.model.scaffold09183.3	Liom_evm.model.scaffold30399.1	NA	BQ	NA	BQ	NA	BQ	OG0007554	NA	GMP reductase 1
+Dcor_evm.model.ctg6_len_5675906.490	Dcor_evm.model.hic_scaffold_3_pilon.1047	Alus_evm.model.scaffold05296.8	Liom_evm.model.scaffold35694.1	NA	BQ	NA	G	NA	BQ	OG0000312	NA	High affinity cationic amino acid transporter 1
+Dcor_evm.model.scaffold129_size406354.56	Dcor_evm.model.hic_scaffold_6_pilon.1782	Alus_evm.model.scaffold18456.8	NA	NA	BQ	NA	BQ	NA	NA	OG0004347	NA	hypothetical protein
+Dcor_evm.model.scaffold129_size406354.57	Dcor_evm.model.hic_scaffold_6_pilon.1781	Alus_evm.model.scaffold18456.6	Liom_evm.model.scaffold22117.4	NA	BQ	NA	BQ	NA	BQ	OG0004347	NA	hypothetical protein
+Dcor_evm.model.ctg22_len_1181805.438	Dcor_evm.model.hic_scaffold_5_pilon.423	Alus_evm.model.scaffold14255.3	Liom_evm.model.scaffold48281.1	NA	BQ	NA	BQ	NA	BQ	OG0004412	GEP17	hypothetical protein
+4b1854a8-d171-4ecd-bb4c-40cf7d30c3b2	Dcor_evm.model.hic_scaffold_60_pilon.10	Alus_evm.model.scaffold12270.1	Liom_evm.model.scaffold44401.1	NA	BQ	NA	BQ	NA	BQ	OG0012654	NA	hypothetical protein
+4b1854a8-d171-4ecd-bb4c-40cf7d30c3b2	Dcor_evm.model.hic_scaffold_60_pilon.10	Alus_evm.model.scaffold12270.1	Liom_evm.model.scaffold31864.1	NA	NA	NA	NA	NA	BQ	OG0012654	NA	hypothetical protein
+Dcor_evm.model.ctg3_len_6069552.405	Dcor_evm.model.hic_scaffold_3_pilon.402	Alus_evm.model.scaffold13731.4	Liom_evm.model.scaffold56808.2	NA	BQ	NA	BQ	NA	BQ	OG0006715	NA	Leukocyte surface antigen CD53
+NA	Dcor_evm.model.hic_scaffold_6_pilon.889	Alus_evm.model.scaffold12542.1	Liom_evm.model.scaffold38202.1	NA	BQ	NA	BQ	NA	NA	OG0000620	NA	L-lactate dehydrogenase 
+Dcor_evm.model.ctg9_len_3119689.188	Dcor_evm.model.hic_scaffold_8_pilon.205	Alus_evm.model.scaffold06481.2	Liom_evm.model.scaffold60095.2	NA	BQ	NA	BQ	NA	BQ	OG0004581	NA	Major facilitator superfamily domain-containing protein 6
+Dcor_evm.model.ctg1_len_6253557.909	Dcor_evm.model.hic_scaffold_7_pilon.25	Alus_evm.model.scaffold02278.10	Liom_evm.model.scaffold56962.1	NA	BQ	NA	BQ	NA	BQ	OG0000015	NA	Multidrug resistance-associated protein 4
+Dcor_evm.model.ctg1_len_6253557.909	Dcor_evm.model.hic_scaffold_7_pilon.25	Alus_evm.model.scaffold02278.10	Liom_evm.model.scaffold30043.1	NA	NA	NA	NA	NA	BQ	OG0000015	NA	Multidrug resistance-associated protein 4
+Dcor_evm.model.ctg13_len_2339851.180	Dcor_evm.model.hic_scaffold_8_pilon.720	Alus_evm.model.scaffold02626.2	Liom_evm.model.scaffold21172.1	NA	BQ	NA	BQ	NA	NA	OG0002856	NA	Nicotinamidase
+Dcor_evm.model.ctg10_len_3669713.116	Dcor_evm.model.hic_scaffold_9_pilon.1355	Alus_evm.model.scaffold07204.1	Liom_evm.model.scaffold06441.1	NA	BQ	NA	BQ	NA	BQ	OG0000300	NA	Ninjurin-2
+Dcor_evm.model.ctg3_len_6069552.787	Dcor_evm.model.hic_scaffold_3_pilon.777	Alus_evm.model.scaffold02611.2	Liom_evm.model.scaffold45339.1	NA	BQ	NA	BQ	NA	NA	OG0001061	NA	Patched domain-containing protein 3
+Dcor_evm.model.ctg3_len_6069552.787	Dcor_evm.model.hic_scaffold_3_pilon.777	Alus_evm.model.scaffold02611.2	Liom_evm.model.scaffold18510.7	NA	NA	NA	NA	NA	BQ	OG0001061	NA	Patched domain-containing protein 3
+Dcor_evm.model.ctg3_len_6069552.787	Dcor_evm.model.hic_scaffold_3_pilon.777	Alus_evm.model.scaffold02611.2	Liom_evm.model.scaffold14531.1	NA	NA	NA	NA	NA	NA	OG0001061	NA	Patched domain-containing protein 3
+Dcor_evm.model.ctg24_len_2556950.362	Dcor_evm.model.hic_scaffold_2_pilon.310	Alus_evm.model.scaffold06077.1	Liom_evm.model.scaffold48432.2	NA	BQ	NA	BQ	NA	NA	OG0002982	NA	Phosphoglucomutase
+Dcor_evm.model.ctg7_len_2417284.216	Dcor_evm.model.hic_scaffold_1_pilon.726	Alus_evm.model.scaffold07751.11	Liom_evm.model.scaffold56892.8	NA	BQ	NA	BQ	NA	NA	OG0009529	NA	Phospholipase A2B
+Dcor_evm.model.ctg12_len_6330523.425	Dcor_evm.model.hic_scaffold_10_pilon.1387	Alus_evm.model.scaffold09002.7	Liom_evm.model.scaffold18139.4	NA	BQ	NA	BQ	NA	NA	OG0007670	NA	Phospholipid phosphatase 5
+Dcor_evm.model.ctg17_len_2239276.116	Dcor_evm.model.hic_scaffold_5_pilon.127	Alus_evm.model.scaffold07656.1	NA	NA	BQ	NA	BQ	NA	NA	OG0003301	NA	PREDICTED: fibulin-5-like
+Dcor_evm.model.scaffold118_size200432.14	Dcor_evm.model.hic_scaffold_7_pilon.1138	Alus_evm.model.scaffold05315.11	Liom_evm.model.scaffold57946.2	NA	BQ	NA	BQ	NA	NA	OG0001046	NA	PREDICTED: lymphocyte antigen 75-like isoform X3
+Dcor_evm.model.ctg22_len_1181805.418	Dcor_evm.model.hic_scaffold_5_pilon.463	Alus_evm.model.scaffold18515.4	Liom_evm.model.scaffold06772.3	NA	BQ	NA	BQ	NA	NA	OG0010221	NA	PREDICTED: metal homeostasis factor ATX1
+Dcor_evm.model.ctg30_len_2601835.315	Dcor_evm.model.hic_scaffold_5_pilon.1118	Alus_evm.model.scaffold04629.13	Liom_evm.model.scaffold08517.1	NA	BQ	NA	BQ	NA	BQ	OG0007733	NA	PREDICTED: uncharacterized protein DDB_G0288805 isoform X1
+Dcor_evm.model.ctg23_len_1050911.15	Dcor_evm.model.hic_scaffold_5_pilon.619	Alus_evm.model.scaffold03204.1	Liom_evm.model.scaffold02478.1	NA	BQ	NA	BQ	NA	BQ	OG0000913	NA	PREDICTED: uncharacterized protein LOC108558179 isoform X1
+Dcor_evm.model.ctg14_len_1695541.227	Dcor_evm.model.hic_scaffold_4_pilon.932	Alus_evm.model.scaffold05772.7	Liom_evm.model.scaffold02013.2	NA	G	NA	BQ	NA	BQ	OG0004359	NA	Probable transaldolase
+Dcor_evm.model.ctg14_len_1695541.227	Dcor_evm.model.hic_scaffold_4_pilon.932	Alus_evm.model.scaffold05772.7	Liom_evm.model.scaffold18672.4	NA	NA	NA	NA	NA	BQ	OG0004359	NA	Probable transaldolase
+Dcor_evm.model.ctg5_len_6873940.399	Dcor_evm.model.hic_scaffold_6_pilon.397	Alus_evm.model.scaffold15850.6	Liom_evm.model.scaffold53842.1	NA	BQ	NA	BQ	NA	BQ	OG0000750	NA	Protein phosphatase 1 regulatory subunit 16A
+Dcor_evm.model.ctg5_len_6873940.399	Dcor_evm.model.hic_scaffold_6_pilon.397	Alus_evm.model.scaffold15850.6	Liom_evm.model.scaffold46643.1	NA	NA	NA	NA	NA	NA	OG0000750	NA	Protein phosphatase 1 regulatory subunit 16A
+Dcor_evm.model.ctg12_len_6330523.69	Dcor_evm.model.hic_scaffold_2_pilon.569	Alus_evm.model.scaffold00693.27	Liom_evm.model.scaffold34656.1	NA	BQ	NA	BQ	NA	BQ	OG0006811	NA	Protein windbeutel
+Dcor_evm.model.ctg11_len_5605186.436	Dcor_evm.model.hic_scaffold_6_pilon.1104	Alus_evm.model.scaffold06122.2	Liom_evm.model.scaffold25069.1	NA	BQ	NA	BQ	NA	NA	OG0000516	NA	Proton-coupled amino acid transporter-like protein CG1139
+NA	Dcor_evm.model.hic_scaffold_4_pilon.1308	Alus_evm.model.scaffold06122.2	Liom_evm.model.scaffold25069.1	NA	BQ	NA	NA	NA	NA	OG0000516	NA	Proton-coupled amino acid transporter-like protein CG1139 
+NA	Dcor_evm.model.hic_scaffold_4_pilon.1308	Alus_evm.model.scaffold06122.2	Liom_evm.model.scaffold39568.1	NA	NA	NA	NA	NA	NA	OG0000516	NA	Proton-coupled amino acid transporter-like protein CG1139 
+Dcor_evm.model.ctg3_len_6069552.673	Dcor_evm.model.hic_scaffold_3_pilon.673	Alus_evm.model.scaffold07644.7	NA	NA	BQ	NA	BQ	NA	NA	OG0001339	GEP17	Regucalcin
+Dcor_evm.model.ctg18_len_2053367.184	Dcor_evm.model.hic_scaffold_7_pilon.1300	Alus_evm.model.scaffold15815.1	Liom_evm.model.scaffold03939.6	NA	BQ	NA	G	NA	NA	OG0007774	NA	Thiamine transporter 2
+Dcor_evm.model.ctg24_len_2556950.163	Dcor_evm.model.hic_scaffold_2_pilon.190	Alus_evm.model.scaffold06512.4	Liom_evm.model.scaffold42196.2	NA	BQ	NA	BQ	NA	BQ	OG0006364	NA	Trypsin-7
+Dcor_evm.model.ctg9_len_3119689.147	Dcor_evm.model.hic_scaffold_8_pilon.243	Alus_evm.model.scaffold05381.2	Liom_evm.model.scaffold17236.1	NA	BQ	NA	BQ	NA	BQ	OG0006937	NA	UMP-CMP kinase
+Dcor_evm.model.ctg3_len_6069552.524	Dcor_evm.model.hic_scaffold_3_pilon.527	Alus_evm.model.scaffold10390.3	Liom_evm.model.scaffold52576.1	NA	BQ	NA	BQ	NA	BQ	OG0005589	NA	uncharacterized protein BDFB_001154
+Dcor_evm.model.ctg12_len_6330523.194	Dcor_evm.model.hic_scaffold_6_pilon.1650	Alus_evm.model.scaffold06098.24	Liom_evm.model.scaffold08513.1	NA	BQ	NA	BQ	NA	BQ	OG0002997	NA	Unconventional myosin IC
+Dcor_evm.model.ctg12_len_6330523.194	Dcor_evm.model.hic_scaffold_6_pilon.1650	Alus_evm.model.scaffold06098.24	Liom_evm.model.scaffold38757.1	NA	BQ	NA	BQ	NA	BQ	OG0002997	NA	Unconventional myosin IC
+Dcor_evm.model.ctg10_len_3669713.457	Dcor_evm.model.hic_scaffold_9_pilon.1699	Alus_evm.model.scaffold15446.14	Liom_evm.model.scaffold22167.1	NA	G	NA	G	NA	BQ	OG0003216	NA	Fatty acid 2-hydroxylase
+Dcor_evm.model.ctg1_len_6253557.611	Dcor_evm.model.hic_scaffold_9_pilon.263	Alus_evm.model.scaffold02209.5	Liom_evm.model.scaffold25610.3	NA	G	NA	G	NA	BQ	OG0003940	GEP9	uncharacterized protein LOC111424502 isoform X2 (Cytochrome b561 domain-containing protein)
+Dcor_evm.model.ctg13_len_2339851.8	Dcor_evm.model.hic_scaffold_8_pilon.894	Alus_evm.model.scaffold01927.3	Liom_evm.model.scaffold25270.1	NA	S	NA	S	NA	NA	OG0004888	"GEP9, GEP17"	"5-aminolevulinate synthase, erythroid-specific, mitochondrial"
+Dcor_evm.model.scaffold143_size401101.58	Dcor_evm.model.hic_scaffold_3_pilon.861	Alus_evm.model.scaffold14832.6	Liom_evm.model.scaffold56031.1	NA	S	NA	S	NA	S	OG0004605	"GEP9, GEP17"	ABC transporter G family member 20
+Dcor_evm.model.ctg3_len_6069552.754	Dcor_evm.model.hic_scaffold_3_pilon.754	Alus_evm.model.scaffold02754.3	Liom_evm.model.scaffold51346.1	NA	S	NA	S	NA	S	OG0000186	"GEP9, GEP17"	ABC transporter G family member 23
+Dcor_evm.model.ctg12_len_6330523.911	Dcor_evm.model.hic_scaffold_10_pilon.907	Alus_evm.model.scaffold13953.6	Liom_evm.model.scaffold02018.1	NA	S	NA	S	NA	NA	OG0008082	NA	Ecdysone 20-monooxygenase
+Dcor_evm.model.ctg35_len_2363947.156	Dcor_evm.model.hic_scaffold_8_pilon.512	Alus_evm.model.scaffold02402.5	Liom_evm.model.scaffold27312.2	NA	S	NA	S	NA	NA	OG0004680	NA	Endochitinase
+Dcor_evm.model.ctg13_len_2339851.9	Dcor_evm.model.hic_scaffold_8_pilon.893	Alus_evm.model.scaffold01927.2	Liom_evm.model.scaffold36582.1	NA	S	NA	S	NA	NA	OG0000556	NA	Excitatory amino acid transporter 1
+Dcor_evm.model.ctg19_len_2461079.154	Dcor_evm.model.hic_scaffold_10_pilon.149	Alus_evm.model.scaffold16267.4	NA	NA	G	NA	S	NA	NA	OG0000018	NA	Fatty acyl-CoA reductase wat
+Dcor_evm.model.ctg1_len_6253557.342	Dcor_evm.model.hic_scaffold_13_pilon.144	Alus_evm.model.scaffold01125.15	Liom_evm.model.scaffold50641.3	NA	S	NA	S	NA	NA	OG0008651	NA	Flavin reductase (NADPH)
+Dcor_evm.model.ctg1_len_6253557.28	Dcor_evm.model.hic_scaffold_9_pilon.525	Alus_evm.model.scaffold01125.15	Liom_evm.model.scaffold50641.3	NA	S	NA	NA	NA	NA	OG0008651	GEP9	Flavin reductase (NADPH)
+Dcor_evm.model.ctg15_len_1679887.372	Dcor_evm.model.hic_scaffold_9_pilon.862	Alus_evm.model.scaffold10557.15	Liom_evm.model.scaffold59797.2	NA	S	NA	G	NA	NA	OG0004269	"GEP9, GEP17"	Glucose-6-phosphate isomerase
+Dcor_evm.model.scaffold115_size662021.40	Dcor_evm.model.hic_scaffold_10_pilon.508	Alus_evm.model.scaffold11337.1	Liom_evm.model.scaffold50211.1	NA	S	NA	S	NA	NA	OG0004535	NA	hypothetical protein
+Dcor_evm.model.ctg12_len_6330523.1052	Dcor_evm.model.hic_scaffold_10_pilon.760	Alus_evm.model.scaffold08754.6	Liom_evm.model.scaffold27263.1	NA	S	NA	S	NA	NA	OG0008657	NA	hypothetical protein
+Dcor_evm.model.scaffold109_size389922.34	Dcor_evm.model.hic_scaffold_6_pilon.1538	Alus_evm.model.scaffold15209.7	Liom_evm.model.scaffold10594.1	NA	S	NA	S	NA	S	OG0008121	GEP17	knirps
+Dcor_evm.model.ctg12_len_6330523.63	Dcor_evm.model.hic_scaffold_2_pilon.575	Alus_evm.model.scaffold12498.3	Liom_evm.model.scaffold49504.1	NA	S	NA	S	NA	NA	OG0004619	NA	Lysophospholipid acyltransferase 5
+Dcor_evm.model.ctg12_len_6330523.63	Dcor_evm.model.hic_scaffold_2_pilon.575	Alus_evm.model.scaffold12498.3	Liom_evm.model.scaffold31889.1	NA	NA	NA	NA	NA	NA	OG0004619	NA	Lysophospholipid acyltransferase 5
+Dcor_evm.model.ctg3_len_6069552.696	Dcor_evm.model.hic_scaffold_3_pilon.695	Alus_evm.model.scaffold00886.3	NA	NA	S	NA	S	NA	NA	OG0000189	GEP9	Peroxisomal acyl-coenzyme A oxidase 3
+Dcor_evm.model.ctg1_len_6253557.794	Dcor_evm.model.hic_scaffold_9_pilon.82	Alus_evm.model.scaffold00352.2	NA	NA	S	NA	G	NA	NA	OG0009037	NA	Peroxisomal membrane protein PMP34
+Dcor_evm.model.ctg15_len_1679887.448	Dcor_evm.model.hic_scaffold_9_pilon.777	Alus_evm.model.scaffold02042.3	Liom_evm.model.scaffold57230.2	NA	S	NA	S	NA	NA	OG0002953	"GEP9, GEP17"	Peroxisomal multifunctional enzyme type 2
+Dcor_evm.model.ctg19_len_2461079.369	Dcor_evm.model.hic_scaffold_10_pilon.369	Alus_evm.model.scaffold07561.26	Liom_evm.model.scaffold04873.1	NA	S	NA	S	NA	BQ	OG0002835	GEP17	Phospholipid-transporting ATPase ID
+Dcor_evm.model.ctg14_len_1695541.273	Dcor_evm.model.hic_scaffold_4_pilon.892	Alus_evm.model.scaffold14918.3	Liom_evm.model.scaffold43244.1	NA	S	NA	S	NA	NA	OG0007045	"GEP9, GEP17"	PREDICTED: uncharacterized protein LOC108558440 (probable ATP-dependent RNA helicase ddx42 )
+Dcor_evm.model.ctg1_len_6253557.1496	Dcor_evm.model.hic_scaffold_7_pilon.608	Alus_evm.model.scaffold15379.4	Liom_evm.model.scaffold39263.2	NA	S	NA	S	NA	NA	OG0000820	GEP9	PREDICTED: uncharacterized protein LOC108562986 isoform X2 (titin)
+Dcor_evm.model.ctg1_len_6253557.1496	Dcor_evm.model.hic_scaffold_7_pilon.608	Alus_evm.model.scaffold08475.5	NA	NA	NA	NA	S	NA	NA	OG0000820	GEP9	PREDICTED: uncharacterized protein LOC108562986 isoform X2 (titin)
+Dcor_evm.model.ctg12_len_6330523.866	Dcor_evm.model.hic_scaffold_10_pilon.952	Alus_evm.model.scaffold08813.6	Liom_evm.model.scaffold17176.3	NA	S	NA	S	NA	S	OG0005145	"GEP9, GEP17"	PREDICTED: uncharacterized protein LOC108564893 (Takeout superfamily)
+Dcor_evm.model.scaffold143_size401101.15	Dcor_evm.model.hic_scaffold_3_pilon.818	Alus_evm.model.scaffold18087.1	Liom_evm.model.scaffold55761.2	NA	S	NA	G	NA	NA	OG0009374	NA	PREDICTED: uncharacterized protein LOC108566448
+Dcor_evm.model.ctg10_len_3669713.127	Dcor_evm.model.hic_scaffold_9_pilon.1367	Alus_evm.model.scaffold11517.4	Liom_evm.model.scaffold00450.1	NA	S	NA	S	NA	BQ	OG0007370	NA	PREDICTED: uncharacterized protein LOC108568569 (juvenile hormone-inducible protein 26)
+Dcor_evm.model.ctg12_len_6330523.433	Dcor_evm.model.hic_scaffold_10_pilon.1379	Alus_evm.model.scaffold14835.4	Liom_evm.model.scaffold39442.3	NA	S	NA	S	NA	S	OG0000128	"GEP9, GEP17"	Protein takeout
+Dcor_evm.model.ctg10_len_3669713.239	Dcor_evm.model.hic_scaffold_9_pilon.1485	Alus_evm.model.scaffold00064.2	Liom_evm.model.scaffold24640.1	NA	S	NA	S	NA	S	OG0001260	GEP17	Segmentation polarity homeobox protein engrailed
+Dcor_evm.model.ctg13_len_2339851.7	Dcor_evm.model.hic_scaffold_8_pilon.895	Alus_evm.model.scaffold01927.4	Liom_evm.model.scaffold25270.2	NA	S	NA	S	NA	NA	OG0009662	NA	Ubiquitin-like-conjugating enzyme ATG10
+Dcor_evm.model.ctg9_len_3119689.251	Dcor_evm.model.hic_scaffold_8_pilon.143	Alus_evm.model.scaffold03840.8	Liom_evm.model.scaffold29765.1	NA	NA	NA	NA	TG-bgm	S	OG0002334	GEP9	Very long-chain-fatty-acid--CoA ligase bubblegum
+Dcor_evm.model.ctg9_len_3119689.251	Dcor_evm.model.hic_scaffold_8_pilon.143	Alus_evm.model.scaffold03840.8	Liom_evm.model.scaffold14691.1	NA	NA	NA	NA	TG-bgm	S	OG0002334	GEP9	Very long-chain-fatty-acid--CoA ligase bubblegum
+Dcor_evm.model.ctg9_len_3119689.251	Dcor_evm.model.hic_scaffold_8_pilon.143	Alus_evm.model.scaffold03840.8	Liom_evm.model.scaffold49668.1	TG-bgm	S	TG-bgm	S	TG-bgm	S	OG0002334	GEP9	Very long-chain-fatty-acid--CoA ligase bubblegum
+Dcor_evm.model.scaffold5_size806535.193	Dcor_evm.model.hic_scaffold_1_pilon.920	Alus_evm.model.scaffold08091.14	Liom_evm.model.scaffold10401.1	NA	NA	TG-FALDH	S	NA	NA	OG0000239	NA	Aldehyde dehydrogenase family 3 member B2
+Dcor_evm.model.scaffold36_size190523.36	Dcor_evm.model.hic_scaffold_2_pilon.636	Alus_evm.model.scaffold16403.9	NA	NA	NA	TG-FAR4	S	NA	NA	OG0000045	GEP9	Fatty acyl-CoA reductase wat
+Dcor_evm.model.scaffold36_size190523.27	Dcor_evm.model.hic_scaffold_2_pilon.627	Alus_evm.model.scaffold14580.16	Liom_evm.model.scaffold52108.1	NA	NA	TG-FAR8	S	NA	NA	OG0000045	NA	Fatty acyl-CoA reductase wat
+Dcor_evm.model.scaffold137_size1808848.144	Dcor_evm.model.hic_scaffold_5_pilon.1454	Alus_evm.model.scaffold05504.2	Liom_evm.model.scaffold02141.1	TG-CYP4G	S	TG-CYP4G	S	NA	NA	OG0001112	"GEP9, GEP17"	Cytochrome P450 4g1
+Dcor_evm.model.ctg10_len_3669713.509	Dcor_evm.model.hic_scaffold_9_pilon.1753	NA	NA	TG-Est1a	S	NA	NA	NA	NA	OG0000032	GEP9	Esterase B1
+Dcor_evm.model.ctg10_len_3669713.510	Dcor_evm.model.hic_scaffold_9_pilon.1755	Alus_evm.model.scaffold02504.4	Liom_evm.model.scaffold00979.4	TG-Est1b	S	NA	BQ	NA	NA	OG0000032	GEP9	Esterase B1
+Dcor_evm.model.ctg3_len_6069552.181	Dcor_evm.model.hic_scaffold_3_pilon.176	NA	NA	TG-FAR1c	S	NA	NA	NA	NA	OG0000800	"GEP9, GEP17"	Fatty acyl-CoA reductase 1
+Dcor_evm.model.scaffold36_size190523.34	Dcor_evm.model.hic_scaffold_2_pilon.634	Alus_evm.model.scaffold16403.8	Liom_evm.model.scaffold38089.2	TG-FAR2	S	TG-FAR2	S	NA	NA	OG0000045	GEP9	Putative fatty acyl-CoA reductase CG5065
+038fa139-76ae-4f09-851d-5723fe7bb411	Dcor_evm.model.hic_scaffold_2_pilon.637	Alus_evm.model.scaffold16403.12	Liom_evm.model.scaffold39589.1	FAR3a	S	NA	NA	FAR3a	S	OG0000045	NA	Fatty acyl-CoA reductase wat
+Dcor_evm.model.ctg3_len_6069552.180	Dcor_evm.model.hic_scaffold_3_pilon.175	Alus_evm.model.scaffold04595.5	Liom_evm.model.scaffold11702.1	NA	S	NA	NA	NA	NA	OG0000800	NA	Fatty acyl-CoA reductase 1
+Dcor_evm.model.ctg3_len_6069552.180	Dcor_evm.model.hic_scaffold_3_pilon.175	Alus_evm.model.scaffold04595.5	Liom_evm.model.scaffold47492.2	TG-FAR1a	S	NA	NA	NA	NA	OG0000800	NA	Fatty acyl-CoA reductase 1
+Dcor_evm.model.ctg12_len_6330523.1221	Dcor_evm.model.hic_scaffold_10_pilon.596	Alus_evm.model.scaffold10131.2	Liom_evm.model.scaffold11759.2	TG-SCD	S	TG-SCD	S	NA	NA	OG0000018	"GEP9, GEP17"	Acyl-CoA Delta(11) desaturase
+NA	Dcor_evm.model.hic_scaffold_9_pilon.1242	NA	Liom_evm.model.scaffold28342.1	NA	NA	NA	NA	IDI	terpene	OG0006178	NA	Isopentenyl-diphosphate Delta-isomerase 1
+NA	NA	NA	Liom_evm.model.scaffold54586.1	NA	NA	NA	NA	FPPS	terpene	OG0000745	NA	Farnesyl pyrophosphate synthase
+NA	Dcor_evm.model.hic_scaffold_8_pilon.309	Alus_evm.model.scaffold17741.4	Liom_evm.model.scaffold03148.4	NA	NA	NA	NA	HMGCR	terpene	OG0002511	NA	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+NA	Dcor_evm.model.hic_scaffold_10_pilon.1103	Alus_evm.model.scaffold13108.5	Liom_evm.model.scaffold44876.4	NA	NA	NA	NA	PMVK	terpene	OG0009190	NA	Probable phosphomevalonate kinase
+NA	Dcor_evm.model.hic_scaffold_4_pilon.1200	Alus_evm.model.scaffold14371.1	Liom_evm.model.scaffold12652.2	NA	NA	NA	NA	FNTA	terpene	OG0006702	NA	Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha 
+NA	Dcor_evm.model.hic_scaffold_10_pilon.56	Alus_evm.model.scaffold02041.24	Liom_evm.model.scaffold11161.1	NA	NA	NA	NA	GGPS1_1	terpene	OG0000690	NA	Geranylgeranyl pyrophosphate synthase
+NA	Dcor_evm.model.hic_scaffold_10_pilon.56	Alus_evm.model.scaffold02041.24	Liom_evm.model.scaffold20371.1	NA	NA	NA	NA	GGPS1_2	terpene	OG0000690	NA	Geranylgeranyl pyrophosphate synthase
+NA	Dcor_evm.model.hic_scaffold_7_pilon.171	Alus_evm.model.scaffold06691.3	Liom_evm.model.scaffold24946.1	NA	NA	NA	NA	PDSS2	terpene	OG0000529	NA	Decaprenyl-diphosphate synthase subunit 2
+NA	Dcor_hic_scaffold_5_3847820-3849501	Alus_evm.model.scaffold17108.12	Liom_evm.model.scaffold21799.1	NA	NA	NA	NA	SCD5_1	BQ	OG0000018	NA	stearoyl-CoA desaturase 5
+NA	Dcor_hic_scaffold_5_3847820-3849501	Alus_evm.model.scaffold17108.12	Liom_evm.model.scaffold32731.1	NA	NA	NA	NA	SCD5_2	BQ	OG0000018	NA	stearoyl-CoA desaturase 5
+NA	NA	NA	Liom_evm.model.scaffold57730.1	NA	NA	NA	NA	SCD	BQ	OG0000018	NA	Acyl-CoA Delta(11) desaturase
+NA	Dcor_evm.model.hic_scaffold_1_pilon.6	Alus_evm.model.scaffold15003.7	Liom_evm.model.scaffold48231.2	NA	NA	NA	NA	CES1	S	OG0000104	NA	Carboxylesterase 4A
+NA	Dcor_evm.model.hic_scaffold_3_pilon.592	NA	Liom_evm.model.scaffold15746.1	ACBP	S	NA	NA	ACBP	S	OG0001025	NA	Acyl-CoA-binding protein homolog
+NA	Dcor_evm.model.hic_scaffold_7_pilon.938	Alus_evm.model.scaffold07046.23	Liom_evm.model.scaffold45890.1	NA	NA	NA	NA	CES2	G	OG0000542	NA	type-B carboxylesterase
+NA	Dcor_evm.model.hic_scaffold_7_pilon.938	Alus_evm.model.scaffold07046.23	Liom_evm.model.scaffold12823.1	NA	NA	NA	NA	CES3	S	OG0000542	NA	type-B carboxylesterase
+NA	Dcor_evm.model.hic_scaffold_2_pilon.347	Alus_evm.model.scaffold15216.4	Liom_evm.model.scaffold54444.1	ATP7	BQ	ATP7	BQ	ATP7	BQ	OG0003140	NA	Copper-transporting ATPase 1
+NA	Dcor_evm.model.hic_scaffold_5_pilon.493	Alus_evm.model.scaffold04779.7	Liom_evm.model.scaffold54975.1	ELOVL	S	NA	NA	ELOVL	G	OG0000083	GEP17	elongation of very long chain fatty acids protein 1
+NA	NA	NA	Liom_evm.model.scaffold48049.1	NA	NA	NA	NA	ELOVL	S	OG0000083	NA	elongation of very long chain fatty acids protein 1
+NA	NA	NA	Liom_evm.model.scaffold58699.1	NA	NA	NA	NA	ELOVL	S	OG0000083	NA	elongation of very long chain fatty acids protein 1
+NA	Dcor_evm.model.hic_scaffold_3_pilon.693	Alus_evm.model.scaffold11468.1	Liom_evm.model.scaffold16400.2	NA	NA	NA	NA	ELOVL	BQ	OG0000083	GEP9	elongation of very long chain fatty acids protein 1
+NA	Dcor_evm.model.hic_scaffold_3_pilon.692	Alus_evm.model.scaffold00905.1	NA	ELOVL	S	NA	NA	NA	NA	OG0000083	GEP17	elongation of very long chain fatty acids protein 1
+NA	Dcor_evm.model.hic_scaffold_25_pilon.20	NA	Liom_evm.model.scaffold43595.1	NA	NA	NA	NA	ELOVL	BQ	OG0000083	NA	elongation of very long chain fatty acids protein 1
+NA	Dcor_evm.model.hic_scaffold_3_pilon.694	Alus_evm.model.scaffold00886.2	Liom_evm.model.scaffold39332.1	ELOVL	S	ELOVL	S	ELOVL	G	OG0000083	NA	elongation of very long chain fatty acids protein 1
+NA	Dcor_evm.model.hic_scaffold_8_pilon.226	Alus_evm.model.scaffold06030.5	Liom_evm.model.scaffold36987.3	NA	NA	NA	NA	HSD17B12	S	OG0000880	NA	very-long-chain 3-oxoacyl-CoA reductase
+NA	NA	NA	Liom_evm.model.scaffold45169.4	NA	NA	NA	NA	HSD17B12	S	OG0000880	NA	very-long-chain 3-oxoacyl-CoA reductase
+NA	NA	NA	Liom_evm.model.scaffold20171.1	NA	NA	NA	NA	HACD3	S	OG0006211	NA	very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase hpo-8
+NA	Dcor_evm.model.hic_scaffold_10_pilon.361	Alus_evm.model.scaffold05154.5	Liom_evm.model.scaffold19616.1	NA	NA	HACD3	S	NA	NA	OG0006211	NA	very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase hpo-8
+NA	Dcor_evm.model.hic_scaffold_8_pilon.67	Alus_evm.model.scaffold09175.7	Liom_evm.model.scaffold54986.2	NA	NA	NA	NA	TECR	BQ	OG0005288	NA	Probable very-long-chain enoyl-CoA reductase art-1

@@ -1,0 +1,1697 @@
+evm.model.hic_scaffold_4_pilon.563	10871	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_4_pilon.563	10871	2	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_4_pilon.563	10871	3	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_4_pilon.563	10871	4	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_4_pilon.563	10871	5	0	Missing exon	-	unmasked	MIS_5
+evm.model.hic_scaffold_4_pilon.563	10871	6	0	Missing exon	-	unmasked	MIS_6
+evm.model.hic_scaffold_4_pilon.563	10871	7	0	Missing exon	-	masked	MIS_7
+evm.model.hic_scaffold_4_pilon.563	10871	8	0	Missing exon	-	unmasked	MIS_8
+evm.model.hic_scaffold_4_pilon.563	10871	9	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_4_pilon.563	20056	1	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_4_pilon.563	20056	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_4_pilon.563	20056	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_4_pilon.563	20056	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_4_pilon.563	20056	5	0	Deleted exon	-	masked	DEL_5
+evm.model.hic_scaffold_4_pilon.563	20056	6	0	Deleted exon	-	masked	DEL_6
+evm.model.hic_scaffold_4_pilon.563	20056	7	0	SSM	('ag',)->aa	unmasked	SSM_3
+evm.model.hic_scaffold_4_pilon.563	10871	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_4_pilon.563	20056	INTACT_PERC_IGNORE_M 0.329700272479564
+evm.model.hic_scaffold_4_pilon.563	10871	INTACT_PERC_INTACT_M 0.9400544959128065
+evm.model.hic_scaffold_4_pilon.563	20056	INTACT_PERC_INTACT_M 0.329700272479564
+evm.model.hic_scaffold_4_pilon.563	10871	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_4_pilon.563	20056	INTACT_CODONS_PROP 0.329700272479564
+evm.model.hic_scaffold_4_pilon.563	10871	OUT_OF_CHAIN_PROP 0.7929155313351499
+evm.model.hic_scaffold_4_pilon.563	20056	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_4_pilon.563	10871	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_4_pilon.563	20056	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_4_pilon.563	10871	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_4_pilon.563	20056	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.260	-1	2	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_9_pilon.260	-1	3	1	SSM	('gt', 'gc')->ct	unmasked	SSM_1
+evm.model.hic_scaffold_9_pilon.260	-1	INTACT_PERC_IGNORE_M 0.6213235294117647
+evm.model.hic_scaffold_9_pilon.260	-1	INTACT_PERC_INTACT_M 0.6213235294117647
+evm.model.hic_scaffold_9_pilon.260	-1	INTACT_CODONS_PROP 0.9957446808510638
+evm.model.hic_scaffold_9_pilon.260	-1	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.260	-1	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_9_pilon.260	-1	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.422	2000	4	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_3_pilon.422	2000	5	328	FS_DEL	-1	unmasked	FS_1
+evm.model.hic_scaffold_3_pilon.422	2000	8	1	SSM	('gt', 'gc')->--	masked	SSM_1
+evm.model.hic_scaffold_3_pilon.422	2000	9	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_3_pilon.422	2000	10	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_3_pilon.422	2000	11	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_3_pilon.422	2000	12	0	Missing exon	-	masked	MIS_4
+evm.model.hic_scaffold_3_pilon.422	2000	INTACT_PERC_IGNORE_M 0.3697560975609756
+evm.model.hic_scaffold_3_pilon.422	2000	INTACT_PERC_INTACT_M 0.6692682926829269
+evm.model.hic_scaffold_3_pilon.422	2000	INTACT_CODONS_PROP 0.9610027855153204
+evm.model.hic_scaffold_3_pilon.422	2000	OUT_OF_CHAIN_PROP 0.2995121951219512
+evm.model.hic_scaffold_3_pilon.422	2000	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_3_pilon.422	2000	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_7_pilon.1138	20645	1	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_7_pilon.1138	20645	2	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_7_pilon.1138	20645	3	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_7_pilon.1138	20645	4	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_7_pilon.1138	20645	5	0	Missing exon	-	masked	MIS_4
+evm.model.hic_scaffold_7_pilon.1138	20645	6	0	Missing exon	-	unmasked	MIS_5
+evm.model.hic_scaffold_7_pilon.1138	20645	7	0	Missing exon	-	masked	MIS_6
+evm.model.hic_scaffold_7_pilon.1138	20645	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_7_pilon.1138	20645	INTACT_PERC_INTACT_M 0.9850746268656716
+evm.model.hic_scaffold_7_pilon.1138	20645	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_7_pilon.1138	20645	OUT_OF_CHAIN_PROP 0.9850746268656716
+evm.model.hic_scaffold_7_pilon.1138	20645	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_7_pilon.1138	20645	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_9_pilon.1225	11087	1	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_9_pilon.1225	11087	2	0	SSM	('ag',)->--	masked	SSM_2
+evm.model.hic_scaffold_9_pilon.1225	11087	INTACT_PERC_IGNORE_M 0.897172236503856
+evm.model.hic_scaffold_9_pilon.1225	11087	INTACT_PERC_INTACT_M 0.9254498714652957
+evm.model.hic_scaffold_9_pilon.1225	11087	INTACT_CODONS_PROP 0.9232804232804233
+evm.model.hic_scaffold_9_pilon.1225	11087	OUT_OF_CHAIN_PROP 0.028277634961439587
+evm.model.hic_scaffold_9_pilon.1225	11087	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.1225	11087	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.846	15570	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_9_pilon.846	15570	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_9_pilon.846	15570	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_9_pilon.846	15570	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_9_pilon.846	15570	5	0	Deleted exon	-	masked	DEL_5
+evm.model.hic_scaffold_9_pilon.846	15570	6	0	Deleted exon	-	masked	DEL_6
+evm.model.hic_scaffold_9_pilon.846	15570	7	0	Deleted exon	-	masked	DEL_7
+evm.model.hic_scaffold_9_pilon.846	15918	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_9_pilon.846	15918	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_9_pilon.846	15918	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_9_pilon.846	15918	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_9_pilon.846	15918	5	0	Deleted exon	-	masked	DEL_5
+evm.model.hic_scaffold_9_pilon.846	15918	6	0	Deleted exon	-	masked	DEL_6
+evm.model.hic_scaffold_9_pilon.846	15918	7	0	Deleted exon	-	masked	DEL_7
+evm.model.hic_scaffold_9_pilon.846	15570	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_9_pilon.846	15918	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_9_pilon.846	15570	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_9_pilon.846	15918	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_9_pilon.846	15570	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_9_pilon.846	15918	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_9_pilon.846	15570	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.846	15918	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.846	15570	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.846	15918	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.846	15570	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.846	15918	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_4_pilon.421	17132	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_4_pilon.421	17132	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_4_pilon.421	17132	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_4_pilon.421	17132	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_4_pilon.421	17132	5	0	Deleted exon	-	masked	DEL_5
+evm.model.hic_scaffold_4_pilon.421	17132	6	0	Deleted exon	-	masked	DEL_6
+evm.model.hic_scaffold_4_pilon.421	17132	7	0	Deleted exon	-	masked	DEL_7
+evm.model.hic_scaffold_4_pilon.421	17132	8	0	Deleted exon	-	masked	DEL_8
+evm.model.hic_scaffold_4_pilon.421	17132	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_4_pilon.421	17132	INTACT_PERC_INTACT_M 0.004962779156327543
+evm.model.hic_scaffold_4_pilon.421	17132	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_4_pilon.421	17132	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_4_pilon.421	17132	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_4_pilon.421	17132	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.89	9738	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_9_pilon.89	9738	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_9_pilon.89	9738	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_9_pilon.89	9738	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_9_pilon.89	9738	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_9_pilon.89	9738	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.89	9738	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.89	9738	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.566	1	3	123	FS_DEL	-1	unmasked	FS_1
+evm.model.hic_scaffold_3_pilon.566	1	INTACT_PERC_IGNORE_M 0.8695652173913043
+evm.model.hic_scaffold_3_pilon.566	1	INTACT_PERC_INTACT_M 0.8695652173913043
+evm.model.hic_scaffold_3_pilon.566	1	INTACT_CODONS_PROP 0.9710144927536232
+evm.model.hic_scaffold_3_pilon.566	1	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.566	1	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_3_pilon.566	1	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.350	10126	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_3_pilon.350	10126	2	0	SSM	('ag',)->tc	unmasked	SSM_1
+evm.model.hic_scaffold_3_pilon.350	10126	2	9	FS_DEL	-1	masked	FS_1
+evm.model.hic_scaffold_3_pilon.350	13538	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.350	18729	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_3_pilon.350	18729	2	0	SSM	('ag',)->ac	unmasked	SSM_1
+evm.model.hic_scaffold_3_pilon.350	24444	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_3_pilon.350	24444	2	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_3_pilon.350	6801	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.350	7725	2	80	FS_INS	+4	unmasked	FS_1
+evm.model.hic_scaffold_3_pilon.350	1906	INTACT_PERC_IGNORE_M 0.9857142857142858
+evm.model.hic_scaffold_3_pilon.350	18729	INTACT_PERC_IGNORE_M 0.4142857142857143
+evm.model.hic_scaffold_3_pilon.350	19114	INTACT_PERC_IGNORE_M 0.6761904761904762
+evm.model.hic_scaffold_3_pilon.350	6801	INTACT_PERC_IGNORE_M 0.01904761904761905
+evm.model.hic_scaffold_3_pilon.350	7725	INTACT_PERC_IGNORE_M 0.5571428571428572
+evm.model.hic_scaffold_3_pilon.350	10126	INTACT_PERC_IGNORE_M 0.38571428571428573
+evm.model.hic_scaffold_3_pilon.350	13538	INTACT_PERC_IGNORE_M 0.01904761904761905
+evm.model.hic_scaffold_3_pilon.350	23881	INTACT_PERC_IGNORE_M 0.6523809523809524
+evm.model.hic_scaffold_3_pilon.350	24444	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_3_pilon.350	30435	INTACT_PERC_IGNORE_M 0.4095238095238095
+evm.model.hic_scaffold_3_pilon.350	1906	INTACT_PERC_INTACT_M 0.9857142857142858
+evm.model.hic_scaffold_3_pilon.350	18729	INTACT_PERC_INTACT_M 0.4142857142857143
+evm.model.hic_scaffold_3_pilon.350	19114	INTACT_PERC_INTACT_M 0.6761904761904762
+evm.model.hic_scaffold_3_pilon.350	6801	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.350	7725	INTACT_PERC_INTACT_M 0.5571428571428572
+evm.model.hic_scaffold_3_pilon.350	10126	INTACT_PERC_INTACT_M 0.38571428571428573
+evm.model.hic_scaffold_3_pilon.350	13538	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.350	23881	INTACT_PERC_INTACT_M 0.6523809523809524
+evm.model.hic_scaffold_3_pilon.350	24444	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.350	30435	INTACT_PERC_INTACT_M 0.4095238095238095
+evm.model.hic_scaffold_3_pilon.350	1906	INTACT_CODONS_PROP 0.9857142857142858
+evm.model.hic_scaffold_3_pilon.350	18729	INTACT_CODONS_PROP 0.4223300970873786
+evm.model.hic_scaffold_3_pilon.350	19114	INTACT_CODONS_PROP 0.6761904761904762
+evm.model.hic_scaffold_3_pilon.350	6801	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.350	7725	INTACT_CODONS_PROP 0.9333333333333333
+evm.model.hic_scaffold_3_pilon.350	10126	INTACT_CODONS_PROP 0.3932038834951456
+evm.model.hic_scaffold_3_pilon.350	13538	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.350	23881	INTACT_CODONS_PROP 0.6523809523809524
+evm.model.hic_scaffold_3_pilon.350	24444	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.350	30435	INTACT_CODONS_PROP 0.4095238095238095
+evm.model.hic_scaffold_3_pilon.350	1906	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.350	18729	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.350	19114	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.350	6801	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.350	7725	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.350	10126	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.350	13538	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.350	23881	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.350	24444	OUT_OF_CHAIN_PROP 0.01904761904761905
+evm.model.hic_scaffold_3_pilon.350	30435	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.350	1906	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.350	18729	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.350	19114	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.350	6801	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.350	7725	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_3_pilon.350	10126	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.350	13538	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.350	23881	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.350	24444	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.350	30435	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.350	1906	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.350	18729	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.350	19114	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.350	6801	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.350	7725	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.350	10126	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.350	13538	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.350	23881	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.350	24444	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.350	30435	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_2_pilon.347	26468	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_2_pilon.347	26468	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_2_pilon.347	26468	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_2_pilon.347	26468	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_2_pilon.347	26468	5	0	Deleted exon	-	masked	DEL_5
+evm.model.hic_scaffold_2_pilon.347	26468	6	0	Deleted exon	-	masked	DEL_6
+evm.model.hic_scaffold_2_pilon.347	26468	7	0	Deleted exon	-	masked	DEL_7
+evm.model.hic_scaffold_2_pilon.347	26468	8	0	Deleted exon	-	masked	DEL_8
+evm.model.hic_scaffold_2_pilon.347	26468	9	0	Deleted exon	-	masked	DEL_9
+evm.model.hic_scaffold_2_pilon.347	26468	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_2_pilon.347	26468	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_2_pilon.347	26468	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_2_pilon.347	26468	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_2_pilon.347	26468	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_2_pilon.347	26468	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.1222	25057	2	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_9_pilon.1222	25057	INTACT_PERC_IGNORE_M 0.3055555555555556
+evm.model.hic_scaffold_9_pilon.1222	25057	INTACT_PERC_INTACT_M 0.3055555555555556
+evm.model.hic_scaffold_9_pilon.1222	25057	INTACT_CODONS_PROP 0.3055555555555556
+evm.model.hic_scaffold_9_pilon.1222	25057	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.1222	25057	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_9_pilon.1222	25057	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_2_pilon.766	20227	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_2_pilon.766	20227	2	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_2_pilon.766	20227	3	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_2_pilon.766	20227	4	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_2_pilon.766	20227	5	0	Missing exon	-	unmasked	MIS_5
+evm.model.hic_scaffold_2_pilon.766	20227	6	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_2_pilon.766	20227	7	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_2_pilon.766	20227	8	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_2_pilon.766	20227	9	0	SSM	('ag',)->gc	unmasked	SSM_6
+evm.model.hic_scaffold_2_pilon.766	20227	INTACT_PERC_IGNORE_M 0.07865168539325842
+evm.model.hic_scaffold_2_pilon.766	20227	INTACT_PERC_INTACT_M 0.6898876404494382
+evm.model.hic_scaffold_2_pilon.766	20227	INTACT_CODONS_PROP 0.2536231884057971
+evm.model.hic_scaffold_2_pilon.766	20227	OUT_OF_CHAIN_PROP 0.6898876404494382
+evm.model.hic_scaffold_2_pilon.766	20227	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_2_pilon.766	20227	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_9_pilon.1224	11087	INTACT_PERC_IGNORE_M 0.9887640449438202
+evm.model.hic_scaffold_9_pilon.1224	11087	INTACT_PERC_INTACT_M 0.9887640449438202
+evm.model.hic_scaffold_9_pilon.1224	11087	INTACT_CODONS_PROP 0.9887640449438202
+evm.model.hic_scaffold_9_pilon.1224	11087	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.1224	11087	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.1224	11087	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.352	10126	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_3_pilon.352	10126	2	0	SSM	('ag',)->tt	unmasked	SSM_2
+evm.model.hic_scaffold_3_pilon.352	10126	2	203	FS_INS	+1	masked	FS_1
+evm.model.hic_scaffold_3_pilon.352	10126	INTACT_PERC_IGNORE_M 0.7130044843049327
+evm.model.hic_scaffold_3_pilon.352	24372	INTACT_PERC_IGNORE_M 0.3991031390134529
+evm.model.hic_scaffold_3_pilon.352	35097	INTACT_PERC_IGNORE_M 0.336322869955157
+evm.model.hic_scaffold_3_pilon.352	10126	INTACT_PERC_INTACT_M 0.7130044843049327
+evm.model.hic_scaffold_3_pilon.352	24372	INTACT_PERC_INTACT_M 0.3991031390134529
+evm.model.hic_scaffold_3_pilon.352	35097	INTACT_PERC_INTACT_M 0.336322869955157
+evm.model.hic_scaffold_3_pilon.352	10126	INTACT_CODONS_PROP 0.726027397260274
+evm.model.hic_scaffold_3_pilon.352	24372	INTACT_CODONS_PROP 0.3991031390134529
+evm.model.hic_scaffold_3_pilon.352	35097	INTACT_CODONS_PROP 0.336322869955157
+evm.model.hic_scaffold_3_pilon.352	10126	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.352	24372	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.352	35097	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.352	10126	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.352	24372	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.352	35097	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.352	10126	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.352	24372	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.352	35097	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.1495	9090	1	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_9_pilon.1495	9090	2	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_9_pilon.1495	9090	3	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_9_pilon.1495	9090	4	0	Missing exon	-	masked	MIS_3
+evm.model.hic_scaffold_9_pilon.1495	9090	5	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_9_pilon.1495	9090	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_9_pilon.1495	9090	INTACT_PERC_INTACT_M 0.9356164383561644
+evm.model.hic_scaffold_9_pilon.1495	9090	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_9_pilon.1495	9090	OUT_OF_CHAIN_PROP 0.9356164383561644
+evm.model.hic_scaffold_9_pilon.1495	9090	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.1495	9090	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_9_pilon.1373	1559	1	1	SSM	('gt', 'gc')->ga	unmasked	SSM_1
+evm.model.hic_scaffold_9_pilon.1373	1559	INTACT_PERC_IGNORE_M 0.8637137989778535
+evm.model.hic_scaffold_9_pilon.1373	1559	INTACT_PERC_INTACT_M 0.8637137989778535
+evm.model.hic_scaffold_9_pilon.1373	1559	INTACT_CODONS_PROP 0.979557069846678
+evm.model.hic_scaffold_9_pilon.1373	1559	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.1373	1559	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_9_pilon.1373	1559	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_6_pilon.1538	3036	1	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_6_pilon.1538	3036	4	0	SSM	('ag',)->cg	unmasked	SSM_1
+evm.model.hic_scaffold_6_pilon.1538	3036	INTACT_PERC_IGNORE_M 0.6033519553072626
+evm.model.hic_scaffold_6_pilon.1538	3036	INTACT_PERC_INTACT_M 0.6033519553072626
+evm.model.hic_scaffold_6_pilon.1538	3036	INTACT_CODONS_PROP 0.963963963963964
+evm.model.hic_scaffold_6_pilon.1538	3036	OUT_OF_CHAIN_PROP 0.06983240223463687
+evm.model.hic_scaffold_6_pilon.1538	3036	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.1538	3036	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.351	10126	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_3_pilon.351	10126	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_3_pilon.351	10126	3	0	SSM	('ag',)->tt	unmasked	SSM_3
+evm.model.hic_scaffold_3_pilon.351	10492	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_3_pilon.351	18029	1	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_3_pilon.351	18029	2	0	SSM	('ag',)->ga	unmasked	SSM_1
+evm.model.hic_scaffold_3_pilon.351	18029	2	1	SSM	('gt', 'gc')->ga	unmasked	SSM_2
+evm.model.hic_scaffold_3_pilon.351	18029	3	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_3_pilon.351	18729	1	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_3_pilon.351	1906	1	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_3_pilon.351	1906	2	17	STOP	AAA->TAA	masked	STOP_1
+evm.model.hic_scaffold_3_pilon.351	1906	3	242	FS_INS	+1	masked	FS_1
+evm.model.hic_scaffold_3_pilon.351	19114	1	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_3_pilon.351	19114	2	15	FS_DEL	-1	masked	FS_1
+evm.model.hic_scaffold_3_pilon.351	25682	1	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_3_pilon.351	25682	2	0	SSM	('ag',)->tt	unmasked	SSM_1
+evm.model.hic_scaffold_3_pilon.351	25682	3	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.351	30435	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_3_pilon.351	30435	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_3_pilon.351	30435	3	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.351	7406	1	1	START_MISSING	---	masked	START_1
+evm.model.hic_scaffold_3_pilon.351	7406	3	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.351	7725	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_3_pilon.351	7725	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_3_pilon.351	7725	3	107	FS_INS	+4	unmasked	FS_1
+evm.model.hic_scaffold_3_pilon.351	1906	INTACT_PERC_IGNORE_M 0.9695817490494296
+evm.model.hic_scaffold_3_pilon.351	18729	INTACT_PERC_IGNORE_M 0.5893536121673004
+evm.model.hic_scaffold_3_pilon.351	19114	INTACT_PERC_IGNORE_M 0.596958174904943
+evm.model.hic_scaffold_3_pilon.351	7725	INTACT_PERC_IGNORE_M 0.5931558935361216
+evm.model.hic_scaffold_3_pilon.351	10126	INTACT_PERC_IGNORE_M 0.5931558935361216
+evm.model.hic_scaffold_3_pilon.351	30435	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_3_pilon.351	7406	INTACT_PERC_IGNORE_M 0.10266159695817491
+evm.model.hic_scaffold_3_pilon.351	25682	INTACT_PERC_IGNORE_M 0.049429657794676805
+evm.model.hic_scaffold_3_pilon.351	10492	INTACT_PERC_IGNORE_M 0.5779467680608364
+evm.model.hic_scaffold_3_pilon.351	18029	INTACT_PERC_IGNORE_M 0.049429657794676805
+evm.model.hic_scaffold_3_pilon.351	1906	INTACT_PERC_INTACT_M 0.9695817490494296
+evm.model.hic_scaffold_3_pilon.351	18729	INTACT_PERC_INTACT_M 0.5893536121673004
+evm.model.hic_scaffold_3_pilon.351	19114	INTACT_PERC_INTACT_M 0.596958174904943
+evm.model.hic_scaffold_3_pilon.351	7725	INTACT_PERC_INTACT_M 0.5931558935361216
+evm.model.hic_scaffold_3_pilon.351	10126	INTACT_PERC_INTACT_M 0.5931558935361216
+evm.model.hic_scaffold_3_pilon.351	30435	INTACT_PERC_INTACT_M 0.8859315589353612
+evm.model.hic_scaffold_3_pilon.351	7406	INTACT_PERC_INTACT_M 0.9885931558935361
+evm.model.hic_scaffold_3_pilon.351	25682	INTACT_PERC_INTACT_M 0.935361216730038
+evm.model.hic_scaffold_3_pilon.351	10492	INTACT_PERC_INTACT_M 0.6083650190114068
+evm.model.hic_scaffold_3_pilon.351	18029	INTACT_PERC_INTACT_M 0.049429657794676805
+evm.model.hic_scaffold_3_pilon.351	1906	INTACT_CODONS_PROP 0.9695817490494296
+evm.model.hic_scaffold_3_pilon.351	18729	INTACT_CODONS_PROP 0.5893536121673004
+evm.model.hic_scaffold_3_pilon.351	19114	INTACT_CODONS_PROP 0.596958174904943
+evm.model.hic_scaffold_3_pilon.351	7725	INTACT_CODONS_PROP 0.8821292775665399
+evm.model.hic_scaffold_3_pilon.351	10126	INTACT_CODONS_PROP 0.5931558935361216
+evm.model.hic_scaffold_3_pilon.351	30435	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_3_pilon.351	7406	INTACT_CODONS_PROP 0.9
+evm.model.hic_scaffold_3_pilon.351	25682	INTACT_CODONS_PROP 0.43333333333333335
+evm.model.hic_scaffold_3_pilon.351	10492	INTACT_CODONS_PROP 0.596078431372549
+evm.model.hic_scaffold_3_pilon.351	18029	INTACT_CODONS_PROP 0.049429657794676805
+evm.model.hic_scaffold_3_pilon.351	1906	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.351	18729	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.351	19114	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.351	7725	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.351	10126	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.351	30435	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.351	7406	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.351	25682	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.351	10492	OUT_OF_CHAIN_PROP 0.030418250950570342
+evm.model.hic_scaffold_3_pilon.351	18029	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.351	1906	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.351	18729	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.351	19114	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.351	7725	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_3_pilon.351	10126	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_3_pilon.351	30435	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.351	7406	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.351	25682	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.351	10492	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.351	18029	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_3_pilon.351	1906	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.351	18729	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.351	19114	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.351	7725	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.351	10126	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.351	30435	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.351	7406	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.351	25682	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.351	10492	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.351	18029	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_5_pilon.877	14123	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_5_pilon.877	14123	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_5_pilon.877	14123	3	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_5_pilon.877	14123	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_5_pilon.877	14123	INTACT_PERC_INTACT_M 0.8471615720524017
+evm.model.hic_scaffold_5_pilon.877	14123	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_5_pilon.877	14123	OUT_OF_CHAIN_PROP 0.4890829694323144
+evm.model.hic_scaffold_5_pilon.877	14123	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_5_pilon.877	14123	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_6_pilon.1104	-1	5	0	SSM	('ag',)->tc	unmasked	SSM_1
+evm.model.hic_scaffold_6_pilon.1104	-1	7	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_6_pilon.1104	-1	8	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_6_pilon.1104	-1	9	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_6_pilon.1104	-1	10	0	Deleted exon	-	unmasked	DEL_4
+evm.model.hic_scaffold_6_pilon.1104	-1	INTACT_PERC_IGNORE_M 0.2606060606060606
+evm.model.hic_scaffold_6_pilon.1104	-1	INTACT_PERC_INTACT_M 0.2606060606060606
+evm.model.hic_scaffold_6_pilon.1104	-1	INTACT_CODONS_PROP 0.47474747474747475
+evm.model.hic_scaffold_6_pilon.1104	-1	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_6_pilon.1104	-1	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.1104	-1	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.359	4910	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_3_pilon.359	4910	2	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_3_pilon.359	4910	3	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_3_pilon.359	4910	4	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_3_pilon.359	4910	INTACT_PERC_IGNORE_M 0.32662192393736017
+evm.model.hic_scaffold_3_pilon.359	4910	INTACT_PERC_INTACT_M 0.9977628635346756
+evm.model.hic_scaffold_3_pilon.359	4910	INTACT_CODONS_PROP 0.9931972789115646
+evm.model.hic_scaffold_3_pilon.359	4910	OUT_OF_CHAIN_PROP 0.6711409395973155
+evm.model.hic_scaffold_3_pilon.359	4910	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.359	4910	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_2_pilon.522	2781	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_2_pilon.522	2781	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_2_pilon.522	2781	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_2_pilon.522	2781	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_2_pilon.522	2781	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_2_pilon.522	2781	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_2_pilon.522	2781	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_2_pilon.522	2781	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_2_pilon.522	2781	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_2_pilon.522	2781	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.1228	3077	1	1	START_MISSING	---	masked	START_1
+evm.model.hic_scaffold_9_pilon.1228	3077	1	10	FS_INS	+1	masked	FS_1
+evm.model.hic_scaffold_9_pilon.1228	3077	INTACT_PERC_IGNORE_M 0.7419354838709677
+evm.model.hic_scaffold_9_pilon.1228	3077	INTACT_PERC_INTACT_M 0.7419354838709677
+evm.model.hic_scaffold_9_pilon.1228	3077	INTACT_CODONS_PROP 0.7419354838709677
+evm.model.hic_scaffold_9_pilon.1228	3077	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.1228	3077	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.1228	3077	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.414	1215	7	766	FS_INS	+1	unmasked	FS_1
+evm.model.hic_scaffold_9_pilon.414	1215	7	776	STOP	TCA->TAA	unmasked	STOP_1
+evm.model.hic_scaffold_9_pilon.414	1215	8	863	FS_INS	+1	unmasked	FS_2
+evm.model.hic_scaffold_9_pilon.414	1215	8	870	FS_INS	+1	masked	FS_3
+evm.model.hic_scaffold_9_pilon.414	1215	8	877	FS_DEL	-2	masked	FS_4
+evm.model.hic_scaffold_9_pilon.414	1215	9	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_9_pilon.414	1215	10	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_9_pilon.414	1215	11	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_9_pilon.414	1215	INTACT_PERC_IGNORE_M 0.7960457856399584
+evm.model.hic_scaffold_9_pilon.414	1215	INTACT_PERC_INTACT_M 0.7960457856399584
+evm.model.hic_scaffold_9_pilon.414	1215	INTACT_CODONS_PROP 0.9250780437044746
+evm.model.hic_scaffold_9_pilon.414	1215	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.414	1215	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_9_pilon.414	1215	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_10_pilon.1311	8872	5	0	SSM	('ag',)->gg	unmasked	SSM_1
+evm.model.hic_scaffold_10_pilon.1311	8872	INTACT_PERC_IGNORE_M 0.580327868852459
+evm.model.hic_scaffold_10_pilon.1311	8872	INTACT_PERC_INTACT_M 0.580327868852459
+evm.model.hic_scaffold_10_pilon.1311	8872	INTACT_CODONS_PROP 0.9901639344262295
+evm.model.hic_scaffold_10_pilon.1311	8872	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_10_pilon.1311	8872	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_10_pilon.1311	8872	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.355	10492	2	0	SSM	('ag',)->tc	unmasked	SSM_1
+evm.model.hic_scaffold_3_pilon.355	12944	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_3_pilon.355	12944	2	0	SSM	('ag',)->tc	unmasked	SSM_1
+evm.model.hic_scaffold_3_pilon.355	15347	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_3_pilon.355	15347	2	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_3_pilon.355	12944	INTACT_PERC_IGNORE_M 0.6026058631921825
+evm.model.hic_scaffold_3_pilon.355	18729	INTACT_PERC_IGNORE_M 0.34527687296416937
+evm.model.hic_scaffold_3_pilon.355	8497	INTACT_PERC_IGNORE_M 0.9771986970684039
+evm.model.hic_scaffold_3_pilon.355	10492	INTACT_PERC_IGNORE_M 0.5276872964169381
+evm.model.hic_scaffold_3_pilon.355	15347	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_3_pilon.355	17129	INTACT_PERC_IGNORE_M 0.5374592833876222
+evm.model.hic_scaffold_3_pilon.355	30323	INTACT_PERC_IGNORE_M 0.41368078175895767
+evm.model.hic_scaffold_3_pilon.355	12944	INTACT_PERC_INTACT_M 0.6026058631921825
+evm.model.hic_scaffold_3_pilon.355	18729	INTACT_PERC_INTACT_M 0.34527687296416937
+evm.model.hic_scaffold_3_pilon.355	8497	INTACT_PERC_INTACT_M 0.9771986970684039
+evm.model.hic_scaffold_3_pilon.355	10492	INTACT_PERC_INTACT_M 0.5276872964169381
+evm.model.hic_scaffold_3_pilon.355	15347	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.355	17129	INTACT_PERC_INTACT_M 0.5374592833876222
+evm.model.hic_scaffold_3_pilon.355	30323	INTACT_PERC_INTACT_M 0.41368078175895767
+evm.model.hic_scaffold_3_pilon.355	12944	INTACT_CODONS_PROP 0.6105610561056105
+evm.model.hic_scaffold_3_pilon.355	18729	INTACT_CODONS_PROP 0.34527687296416937
+evm.model.hic_scaffold_3_pilon.355	8497	INTACT_CODONS_PROP 0.9771986970684039
+evm.model.hic_scaffold_3_pilon.355	10492	INTACT_CODONS_PROP 0.5407166123778502
+evm.model.hic_scaffold_3_pilon.355	15347	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.355	17129	INTACT_CODONS_PROP 0.5374592833876222
+evm.model.hic_scaffold_3_pilon.355	30323	INTACT_CODONS_PROP 0.41368078175895767
+evm.model.hic_scaffold_3_pilon.355	12944	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.355	18729	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.355	8497	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.355	10492	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.355	15347	OUT_OF_CHAIN_PROP 0.9869706840390879
+evm.model.hic_scaffold_3_pilon.355	17129	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.355	30323	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.355	12944	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.355	18729	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.355	8497	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.355	10492	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.355	15347	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.355	17129	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.355	30323	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.355	12944	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.355	18729	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.355	8497	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.355	10492	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.355	15347	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.355	17129	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.355	30323	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_7_pilon.1068	3544	2	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_7_pilon.1068	3544	3	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_7_pilon.1068	3544	4	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_7_pilon.1068	3544	5	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_7_pilon.1068	3544	INTACT_PERC_IGNORE_M 0.041666666666666664
+evm.model.hic_scaffold_7_pilon.1068	3544	INTACT_PERC_INTACT_M 0.9053030303030303
+evm.model.hic_scaffold_7_pilon.1068	3544	INTACT_CODONS_PROP 0.44
+evm.model.hic_scaffold_7_pilon.1068	3544	OUT_OF_CHAIN_PROP 0.9053030303030303
+evm.model.hic_scaffold_7_pilon.1068	3544	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_7_pilon.1068	3544	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_10_pilon.310	2976	1	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_10_pilon.310	2976	3	37	STOP	TCA->TAA	unmasked	STOP_1
+evm.model.hic_scaffold_10_pilon.310	2976	4	1	SSM	('gt', 'gc')->ga	unmasked	SSM_1
+evm.model.hic_scaffold_10_pilon.310	2976	INTACT_PERC_IGNORE_M 0.6666666666666666
+evm.model.hic_scaffold_10_pilon.310	2976	INTACT_PERC_INTACT_M 0.6666666666666666
+evm.model.hic_scaffold_10_pilon.310	2976	INTACT_CODONS_PROP 0.9133333333333333
+evm.model.hic_scaffold_10_pilon.310	2976	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_10_pilon.310	2976	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_10_pilon.310	2976	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_10_pilon.952	13665	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_10_pilon.952	13665	5	1	SSM	('gt', 'gc')->g-	unmasked	SSM_1
+evm.model.hic_scaffold_10_pilon.952	13665	6	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_10_pilon.952	13665	INTACT_PERC_IGNORE_M 0.7049180327868853
+evm.model.hic_scaffold_10_pilon.952	13665	INTACT_PERC_INTACT_M 0.8786885245901639
+evm.model.hic_scaffold_10_pilon.952	13665	INTACT_CODONS_PROP 0.9953703703703703
+evm.model.hic_scaffold_10_pilon.952	13665	OUT_OF_CHAIN_PROP 0.29180327868852457
+evm.model.hic_scaffold_10_pilon.952	13665	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_10_pilon.952	13665	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.358	1344	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.358	1344	INTACT_PERC_IGNORE_M 0.022292993630573247
+evm.model.hic_scaffold_3_pilon.358	1344	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.358	1344	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.358	1344	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.358	1344	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.358	1344	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_7_pilon.993	12113	3	0	SSM	('ag',)->aa	unmasked	SSM_1
+evm.model.hic_scaffold_7_pilon.993	12113	INTACT_PERC_IGNORE_M 0.734375
+evm.model.hic_scaffold_7_pilon.993	12113	INTACT_PERC_INTACT_M 0.734375
+evm.model.hic_scaffold_7_pilon.993	12113	INTACT_CODONS_PROP 0.9947916666666666
+evm.model.hic_scaffold_7_pilon.993	12113	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_7_pilon.993	12113	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_7_pilon.993	12113	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.122	283	4	1	SSM	('gt', 'gc')->--	masked	SSM_1
+evm.model.hic_scaffold_9_pilon.122	283	5	0	SSM	('ag',)->--	masked	SSM_2
+evm.model.hic_scaffold_9_pilon.122	283	9	733	STOP	GAA->TAA	unmasked	STOP_1
+evm.model.hic_scaffold_9_pilon.122	283	INTACT_PERC_IGNORE_M 0.8312428734321551
+evm.model.hic_scaffold_9_pilon.122	283	INTACT_PERC_INTACT_M 0.8312428734321551
+evm.model.hic_scaffold_9_pilon.122	283	INTACT_CODONS_PROP 0.9954389965792474
+evm.model.hic_scaffold_9_pilon.122	283	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.122	283	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_9_pilon.122	283	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_7_pilon.25	512	8	1063	FS_INS	+2	unmasked	FS_1
+evm.model.hic_scaffold_7_pilon.25	512	8	1064	FS_INS	+47	unmasked	FS_2
+evm.model.hic_scaffold_7_pilon.25	512	INTACT_PERC_IGNORE_M 0.7898279730740464
+evm.model.hic_scaffold_7_pilon.25	512	INTACT_PERC_INTACT_M 0.7898279730740464
+evm.model.hic_scaffold_7_pilon.25	512	INTACT_CODONS_PROP 0.994016454749439
+evm.model.hic_scaffold_7_pilon.25	512	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_7_pilon.25	512	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_7_pilon.25	512	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.891	4	INTACT_PERC_IGNORE_M 0.9943502824858758
+evm.model.hic_scaffold_9_pilon.891	4	INTACT_PERC_INTACT_M 0.9943502824858758
+evm.model.hic_scaffold_9_pilon.891	4	INTACT_CODONS_PROP 0.9943502824858758
+evm.model.hic_scaffold_9_pilon.891	4	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.891	4	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.891	4	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.357	1344	INTACT_PERC_IGNORE_M 0.9970059880239521
+evm.model.hic_scaffold_3_pilon.357	1344	INTACT_PERC_INTACT_M 0.9970059880239521
+evm.model.hic_scaffold_3_pilon.357	1344	INTACT_CODONS_PROP 0.9970059880239521
+evm.model.hic_scaffold_3_pilon.357	1344	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.357	1344	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.357	1344	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_2_pilon.200	11715	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_2_pilon.200	11715	2	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_2_pilon.200	11715	3	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_2_pilon.200	11715	4	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_2_pilon.200	11715	5	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_2_pilon.200	11715	6	0	Missing exon	-	unmasked	MIS_5
+evm.model.hic_scaffold_2_pilon.200	11715	7	0	Missing exon	-	unmasked	MIS_6
+evm.model.hic_scaffold_2_pilon.200	11715	8	0	Missing exon	-	unmasked	MIS_7
+evm.model.hic_scaffold_2_pilon.200	11715	9	0	Missing exon	-	unmasked	MIS_8
+evm.model.hic_scaffold_2_pilon.200	11715	10	0	Missing exon	-	unmasked	MIS_9
+evm.model.hic_scaffold_2_pilon.200	11715	11	0	Missing exon	-	masked	MIS_10
+evm.model.hic_scaffold_2_pilon.200	11715	12	0	Missing exon	-	masked	MIS_11
+evm.model.hic_scaffold_2_pilon.200	11715	13	0	Missing exon	-	unmasked	MIS_12
+evm.model.hic_scaffold_2_pilon.200	11715	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_2_pilon.200	11715	INTACT_PERC_INTACT_M 0.9808342728297632
+evm.model.hic_scaffold_2_pilon.200	11715	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_2_pilon.200	11715	OUT_OF_CHAIN_PROP 0.9808342728297632
+evm.model.hic_scaffold_2_pilon.200	11715	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_2_pilon.200	11715	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.875	2915	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_3_pilon.875	2915	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_3_pilon.875	2915	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_3_pilon.875	2915	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_3_pilon.875	2915	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_3_pilon.875	2915	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_3_pilon.875	2915	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_3_pilon.875	2915	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.875	2915	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.875	2915	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.1685	617	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_9_pilon.1685	617	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_9_pilon.1685	617	3	106	FS_DEL	-2	masked	FS_2
+evm.model.hic_scaffold_9_pilon.1685	617	INTACT_PERC_IGNORE_M 0.17094017094017094
+evm.model.hic_scaffold_9_pilon.1685	617	INTACT_PERC_INTACT_M 0.17094017094017094
+evm.model.hic_scaffold_9_pilon.1685	617	INTACT_CODONS_PROP 0.17094017094017094
+evm.model.hic_scaffold_9_pilon.1685	617	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.1685	617	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.1685	617	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_7_pilon.255	18203	2	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_7_pilon.255	18203	INTACT_PERC_IGNORE_M 0.4020618556701031
+evm.model.hic_scaffold_7_pilon.255	18203	INTACT_PERC_INTACT_M 0.4020618556701031
+evm.model.hic_scaffold_7_pilon.255	18203	INTACT_CODONS_PROP 0.4020618556701031
+evm.model.hic_scaffold_7_pilon.255	18203	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_7_pilon.255	18203	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_7_pilon.255	18203	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_1_pilon.235	4373	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_1_pilon.235	4373	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_1_pilon.235	4373	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_1_pilon.235	4373	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_1_pilon.235	4373	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_1_pilon.235	4373	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_1_pilon.235	4373	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_1_pilon.235	4373	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.1366	3334	3	337	FS_DEL	-1	unmasked	FS_1
+evm.model.hic_scaffold_9_pilon.1366	3334	3	340	FS_INS	+1	unmasked	FS_2
+evm.model.hic_scaffold_9_pilon.1366	3334	INTACT_PERC_IGNORE_M 0.8263157894736842
+evm.model.hic_scaffold_9_pilon.1366	3334	INTACT_PERC_INTACT_M 0.8263157894736842
+evm.model.hic_scaffold_9_pilon.1366	3334	INTACT_CODONS_PROP 0.8657894736842106
+evm.model.hic_scaffold_9_pilon.1366	3334	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.1366	3334	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_9_pilon.1366	3334	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.354	15347	2	0	SSM	('ag',)->tc	unmasked	SSM_1
+evm.model.hic_scaffold_3_pilon.354	22079	2	79	FS_INS	+1	unmasked	FS_1
+evm.model.hic_scaffold_3_pilon.354	24210	2	269	FS_DEL	-2	masked	FS_1
+evm.model.hic_scaffold_3_pilon.354	28938	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.354	8497	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_3_pilon.354	8497	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.354	8497	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_3_pilon.354	15347	INTACT_PERC_IGNORE_M 0.8298611111111112
+evm.model.hic_scaffold_3_pilon.354	11998	INTACT_PERC_IGNORE_M 0.9826388888888888
+evm.model.hic_scaffold_3_pilon.354	22079	INTACT_PERC_IGNORE_M 0.4930555555555556
+evm.model.hic_scaffold_3_pilon.354	24210	INTACT_PERC_IGNORE_M 0.7916666666666666
+evm.model.hic_scaffold_3_pilon.354	28938	INTACT_PERC_IGNORE_M 0.013888888888888888
+evm.model.hic_scaffold_3_pilon.354	8497	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.354	15347	INTACT_PERC_INTACT_M 0.8298611111111112
+evm.model.hic_scaffold_3_pilon.354	11998	INTACT_PERC_INTACT_M 0.9826388888888888
+evm.model.hic_scaffold_3_pilon.354	22079	INTACT_PERC_INTACT_M 0.4930555555555556
+evm.model.hic_scaffold_3_pilon.354	24210	INTACT_PERC_INTACT_M 0.7916666666666666
+evm.model.hic_scaffold_3_pilon.354	28938	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.354	8497	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.354	15347	INTACT_CODONS_PROP 0.84375
+evm.model.hic_scaffold_3_pilon.354	11998	INTACT_CODONS_PROP 0.9826388888888888
+evm.model.hic_scaffold_3_pilon.354	22079	INTACT_CODONS_PROP 0.7604166666666666
+evm.model.hic_scaffold_3_pilon.354	24210	INTACT_CODONS_PROP 0.7916666666666666
+evm.model.hic_scaffold_3_pilon.354	28938	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.354	8497	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.354	15347	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.354	11998	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.354	22079	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.354	24210	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.354	28938	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.354	8497	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.354	15347	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.354	11998	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.354	22079	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_3_pilon.354	24210	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.354	28938	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.354	8497	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.354	15347	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.354	11998	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.354	22079	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.354	24210	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.354	28938	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_9_pilon.896	4	1	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_9_pilon.896	4	2	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_9_pilon.896	4	3	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_9_pilon.896	5307	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_9_pilon.896	5307	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_9_pilon.896	5307	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_9_pilon.896	4	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_9_pilon.896	5307	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_9_pilon.896	4	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_9_pilon.896	5307	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_9_pilon.896	4	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_9_pilon.896	5307	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_9_pilon.896	4	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.896	5307	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.896	4	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.896	5307	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.896	4	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_9_pilon.896	5307	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.1211	1283	6	0	SSM	('ag',)->gg	unmasked	SSM_1
+evm.model.hic_scaffold_3_pilon.1211	1283	INTACT_PERC_IGNORE_M 0.5882352941176471
+evm.model.hic_scaffold_3_pilon.1211	1283	INTACT_PERC_INTACT_M 0.5882352941176471
+evm.model.hic_scaffold_3_pilon.1211	1283	INTACT_CODONS_PROP 0.9985294117647059
+evm.model.hic_scaffold_3_pilon.1211	1283	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.1211	1283	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_3_pilon.1211	1283	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.892	4	INTACT_PERC_IGNORE_M 1.0
+evm.model.hic_scaffold_9_pilon.892	4	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_9_pilon.892	4	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_9_pilon.892	4	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.892	4	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.892	4	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_10_pilon.1387	6	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_10_pilon.1387	6	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_10_pilon.1387	6	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_10_pilon.1387	6	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_10_pilon.1387	6	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_10_pilon.1387	6	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_10_pilon.1387	6	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_10_pilon.1387	6	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_10_pilon.1387	6	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_2_pilon.188	24255	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_2_pilon.188	24255	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_2_pilon.188	24255	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_2_pilon.188	24255	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_2_pilon.188	24255	5	0	Deleted exon	-	unmasked	DEL_5
+evm.model.hic_scaffold_2_pilon.188	24255	6	0	Deleted exon	-	masked	DEL_6
+evm.model.hic_scaffold_2_pilon.188	24255	7	0	Deleted exon	-	unmasked	DEL_7
+evm.model.hic_scaffold_2_pilon.188	24255	8	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_2_pilon.188	24255	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_2_pilon.188	24255	INTACT_PERC_INTACT_M 0.02506265664160401
+evm.model.hic_scaffold_2_pilon.188	24255	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_2_pilon.188	24255	OUT_OF_CHAIN_PROP 0.02506265664160401
+evm.model.hic_scaffold_2_pilon.188	24255	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_2_pilon.188	24255	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.894	4	INTACT_PERC_IGNORE_M 0.9951456310679612
+evm.model.hic_scaffold_9_pilon.894	1502	INTACT_PERC_IGNORE_M 0.9951456310679612
+evm.model.hic_scaffold_9_pilon.894	4	INTACT_PERC_INTACT_M 0.9951456310679612
+evm.model.hic_scaffold_9_pilon.894	1502	INTACT_PERC_INTACT_M 0.9951456310679612
+evm.model.hic_scaffold_9_pilon.894	4	INTACT_CODONS_PROP 0.9951456310679612
+evm.model.hic_scaffold_9_pilon.894	1502	INTACT_CODONS_PROP 0.9951456310679612
+evm.model.hic_scaffold_9_pilon.894	4	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.894	1502	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.894	4	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.894	1502	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.894	4	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.894	1502	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_7_pilon.256	5729	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_7_pilon.256	5729	2	0	SSM	('ag',)->ac	unmasked	SSM_1
+evm.model.hic_scaffold_7_pilon.256	5729	2	1	SSM	('gt', 'gc')->--	masked	SSM_2
+evm.model.hic_scaffold_7_pilon.256	5729	3	0	SSM	('ag',)->--	masked	SSM_3
+evm.model.hic_scaffold_7_pilon.256	5729	3	1	SSM	('gt', 'gc')->cc	unmasked	SSM_4
+evm.model.hic_scaffold_7_pilon.256	5729	INTACT_PERC_IGNORE_M 0.7474093264248705
+evm.model.hic_scaffold_7_pilon.256	5729	INTACT_PERC_INTACT_M 0.7474093264248705
+evm.model.hic_scaffold_7_pilon.256	5729	INTACT_CODONS_PROP 0.9639769452449568
+evm.model.hic_scaffold_7_pilon.256	5729	OUT_OF_CHAIN_PROP 0.10103626943005181
+evm.model.hic_scaffold_7_pilon.256	5729	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_7_pilon.256	5729	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_9_pilon.1238	5404	4	247	FS_DEL	-2	unmasked	FS_1
+evm.model.hic_scaffold_9_pilon.1238	5404	INTACT_PERC_IGNORE_M 0.8448275862068966
+evm.model.hic_scaffold_9_pilon.1238	5404	INTACT_PERC_INTACT_M 0.8448275862068966
+evm.model.hic_scaffold_9_pilon.1238	5404	INTACT_CODONS_PROP 0.9275862068965517
+evm.model.hic_scaffold_9_pilon.1238	5404	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.1238	5404	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_9_pilon.1238	5404	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_6_pilon.431	1043	4	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_6_pilon.431	1043	5	339	FS_DEL	-1	unmasked	FS_1
+evm.model.hic_scaffold_6_pilon.431	1043	INTACT_PERC_IGNORE_M 0.48714069591527986
+evm.model.hic_scaffold_6_pilon.431	1043	INTACT_PERC_INTACT_M 0.48714069591527986
+evm.model.hic_scaffold_6_pilon.431	1043	INTACT_CODONS_PROP 0.9561270801815431
+evm.model.hic_scaffold_6_pilon.431	1043	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_6_pilon.431	1043	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.431	1043	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.897	4	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_9_pilon.897	4	2	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_9_pilon.897	5307	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_9_pilon.897	5307	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_9_pilon.897	4	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_9_pilon.897	5307	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_9_pilon.897	4	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_9_pilon.897	5307	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_9_pilon.897	4	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_9_pilon.897	5307	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_9_pilon.897	4	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.897	5307	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.897	4	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.897	5307	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.897	4	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_9_pilon.897	5307	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.1221	-1	2	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_9_pilon.1221	-1	3	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_9_pilon.1221	-1	4	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_9_pilon.1221	-1	5	0	Deleted exon	-	unmasked	DEL_3
+evm.model.hic_scaffold_9_pilon.1221	-1	INTACT_PERC_IGNORE_M 0.144
+evm.model.hic_scaffold_9_pilon.1221	-1	INTACT_PERC_INTACT_M 0.214
+evm.model.hic_scaffold_9_pilon.1221	-1	INTACT_CODONS_PROP 0.15483870967741936
+evm.model.hic_scaffold_9_pilon.1221	-1	OUT_OF_CHAIN_PROP 0.07
+evm.model.hic_scaffold_9_pilon.1221	-1	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_9_pilon.1221	-1	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.98	8485	3	227	FS_INS	+1	unmasked	FS_1
+evm.model.hic_scaffold_3_pilon.98	8485	3	250	STOP	TTG->TAG	unmasked	STOP_1
+evm.model.hic_scaffold_3_pilon.98	8485	3	268	FS_INS	+19	masked	FS_2
+evm.model.hic_scaffold_3_pilon.98	8485	INTACT_PERC_IGNORE_M 0.8071428571428572
+evm.model.hic_scaffold_3_pilon.98	8485	INTACT_PERC_INTACT_M 0.8071428571428572
+evm.model.hic_scaffold_3_pilon.98	8485	INTACT_CODONS_PROP 0.9857142857142858
+evm.model.hic_scaffold_3_pilon.98	8485	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.98	8485	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_3_pilon.98	8485	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_7_pilon.1300	15165	2	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_7_pilon.1300	15165	3	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_7_pilon.1300	15165	4	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_7_pilon.1300	15165	5	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_7_pilon.1300	15165	6	0	Missing exon	-	masked	MIS_3
+evm.model.hic_scaffold_7_pilon.1300	15165	INTACT_PERC_IGNORE_M 0.20618556701030927
+evm.model.hic_scaffold_7_pilon.1300	15165	INTACT_PERC_INTACT_M 0.7147766323024055
+evm.model.hic_scaffold_7_pilon.1300	15165	INTACT_CODONS_PROP 0.4195804195804196
+evm.model.hic_scaffold_7_pilon.1300	15165	OUT_OF_CHAIN_PROP 0.5085910652920962
+evm.model.hic_scaffold_7_pilon.1300	15165	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_7_pilon.1300	15165	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.1169	25	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_3_pilon.1169	25	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_3_pilon.1169	25	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_3_pilon.1169	25	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_3_pilon.1169	25	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_3_pilon.1169	25	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_3_pilon.1169	25	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_3_pilon.1169	25	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.1169	25	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.1169	25	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.861	2915	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_3_pilon.861	2915	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_3_pilon.861	2915	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_3_pilon.861	2915	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_3_pilon.861	2915	5	0	Deleted exon	-	masked	DEL_5
+evm.model.hic_scaffold_3_pilon.861	2915	6	0	Deleted exon	-	masked	DEL_6
+evm.model.hic_scaffold_3_pilon.861	2915	7	0	Deleted exon	-	masked	DEL_7
+evm.model.hic_scaffold_3_pilon.861	2915	8	0	Deleted exon	-	masked	DEL_8
+evm.model.hic_scaffold_3_pilon.861	2915	9	0	Deleted exon	-	masked	DEL_9
+evm.model.hic_scaffold_3_pilon.861	2915	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_3_pilon.861	2915	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_3_pilon.861	2915	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_3_pilon.861	2915	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.861	2915	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.861	2915	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.893	4	1	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_9_pilon.893	4	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_9_pilon.893	4	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_9_pilon.893	4	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_9_pilon.893	4	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.893	4	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.893	4	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_8_pilon.401	26868	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_8_pilon.401	26868	3	0	Deleted exon	-	unmasked	DEL_2
+evm.model.hic_scaffold_8_pilon.401	26868	4	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_8_pilon.401	26868	5	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_8_pilon.401	26868	INTACT_PERC_IGNORE_M 0.011363636363636364
+evm.model.hic_scaffold_8_pilon.401	26868	INTACT_PERC_INTACT_M 0.865909090909091
+evm.model.hic_scaffold_8_pilon.401	26868	INTACT_CODONS_PROP 0.09090909090909091
+evm.model.hic_scaffold_8_pilon.401	26868	OUT_OF_CHAIN_PROP 0.865909090909091
+evm.model.hic_scaffold_8_pilon.401	26868	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_8_pilon.401	26868	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_10_pilon.596	18509	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_10_pilon.596	18509	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_10_pilon.596	18509	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_10_pilon.596	18509	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_10_pilon.596	18509	5	0	Deleted exon	-	masked	DEL_5
+evm.model.hic_scaffold_10_pilon.596	21896	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_10_pilon.596	21896	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_10_pilon.596	21896	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_10_pilon.596	21896	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_10_pilon.596	21896	5	0	Deleted exon	-	masked	DEL_5
+evm.model.hic_scaffold_10_pilon.596	35726	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_10_pilon.596	35726	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_10_pilon.596	35726	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_10_pilon.596	35726	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_10_pilon.596	35726	5	0	Deleted exon	-	masked	DEL_5
+evm.model.hic_scaffold_10_pilon.596	18509	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_10_pilon.596	21896	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_10_pilon.596	35726	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_10_pilon.596	18509	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_10_pilon.596	21896	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_10_pilon.596	35726	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_10_pilon.596	18509	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_10_pilon.596	21896	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_10_pilon.596	35726	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_10_pilon.596	18509	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_10_pilon.596	21896	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_10_pilon.596	35726	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_10_pilon.596	18509	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_10_pilon.596	21896	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_10_pilon.596	35726	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_10_pilon.596	18509	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_10_pilon.596	21896	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_10_pilon.596	35726	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_5_pilon.1454	2154	1	3	FS_DEL	-1	masked	FS_1
+evm.model.hic_scaffold_5_pilon.1454	2154	1	43	COMPENSATION	FS_2,3	unmasked	C_1
+evm.model.hic_scaffold_5_pilon.1454	2154	1	43	FS_DEL	-2	masked	FS_2
+evm.model.hic_scaffold_5_pilon.1454	2154	1	53	FS_DEL	-1	masked	FS_3
+evm.model.hic_scaffold_5_pilon.1454	2154	2	96	FS_INS	+2	unmasked	FS_4
+evm.model.hic_scaffold_5_pilon.1454	2154	4	257	STOP	GGA->TGA	unmasked	STOP_1
+evm.model.hic_scaffold_5_pilon.1454	2154	4	268	FS_DEL	-1	unmasked	FS_5
+evm.model.hic_scaffold_5_pilon.1454	2154	4	341	COMPENSATION	FS_6,7	unmasked	C_2
+evm.model.hic_scaffold_5_pilon.1454	2154	4	341	FS_DEL	-2	masked	FS_6
+evm.model.hic_scaffold_5_pilon.1454	2154	4	360	STOP	AAA->TAA	unmasked	STOP_2
+evm.model.hic_scaffold_5_pilon.1454	2154	4	374	FS_DEL	-1	masked	FS_7
+evm.model.hic_scaffold_5_pilon.1454	2154	5	0	SSM	('ag',)->tg	unmasked	SSM_1
+evm.model.hic_scaffold_5_pilon.1454	2154	5	443	COMPENSATION	FS_8,9	unmasked	C_3
+evm.model.hic_scaffold_5_pilon.1454	2154	5	443	FS_DEL	-1	masked	FS_8
+evm.model.hic_scaffold_5_pilon.1454	2154	5	455	FS_DEL	-2	masked	FS_9
+evm.model.hic_scaffold_5_pilon.1454	2154	5	463	FS_INS	+1	unmasked	FS_10
+evm.model.hic_scaffold_5_pilon.1454	2154	INTACT_PERC_IGNORE_M 0.2739463601532567
+evm.model.hic_scaffold_5_pilon.1454	2154	INTACT_PERC_INTACT_M 0.2739463601532567
+evm.model.hic_scaffold_5_pilon.1454	2154	INTACT_CODONS_PROP 0.7777777777777778
+evm.model.hic_scaffold_5_pilon.1454	2154	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_5_pilon.1454	2154	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_5_pilon.1454	2154	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.35	11706	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_3_pilon.35	11706	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_3_pilon.35	11706	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_3_pilon.35	11706	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_3_pilon.35	11706	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_3_pilon.35	11706	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_3_pilon.35	11706	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.35	11706	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.35	11706	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_8_pilon.673	143	4	161	FS_INS	+1	unmasked	FS_1
+evm.model.hic_scaffold_8_pilon.673	143	4	162	FS_INS	+80	unmasked	FS_2
+evm.model.hic_scaffold_8_pilon.673	143	INTACT_PERC_IGNORE_M 0.5609756097560976
+evm.model.hic_scaffold_8_pilon.673	143	INTACT_PERC_INTACT_M 0.5609756097560976
+evm.model.hic_scaffold_8_pilon.673	143	INTACT_CODONS_PROP 0.994579945799458
+evm.model.hic_scaffold_8_pilon.673	143	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_8_pilon.673	143	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_8_pilon.673	143	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.760	3999	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_3_pilon.760	3999	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_3_pilon.760	3999	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_3_pilon.760	3999	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_3_pilon.760	3999	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_3_pilon.760	3999	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_3_pilon.760	3999	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.760	3999	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.760	3999	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.402	1421	5	0	SSM	('ag',)->gg	unmasked	SSM_1
+evm.model.hic_scaffold_3_pilon.402	1421	INTACT_PERC_IGNORE_M 0.7008547008547008
+evm.model.hic_scaffold_3_pilon.402	1421	INTACT_PERC_INTACT_M 0.7008547008547008
+evm.model.hic_scaffold_3_pilon.402	1421	INTACT_CODONS_PROP 0.9957264957264957
+evm.model.hic_scaffold_3_pilon.402	1421	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.402	1421	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_3_pilon.402	1421	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_7_pilon.194	1482	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_7_pilon.194	1482	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_7_pilon.194	1482	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_7_pilon.194	9	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_7_pilon.194	9	2	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_7_pilon.194	9	3	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_7_pilon.194	9	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_7_pilon.194	1482	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_7_pilon.194	9	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_7_pilon.194	1482	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_7_pilon.194	9	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_7_pilon.194	1482	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_7_pilon.194	9	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_7_pilon.194	1482	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_7_pilon.194	9	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_7_pilon.194	1482	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_7_pilon.194	9	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_7_pilon.194	1482	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.1431	429	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_3_pilon.1431	429	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_3_pilon.1431	429	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_3_pilon.1431	429	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_3_pilon.1431	429	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_3_pilon.1431	429	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_3_pilon.1431	429	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_3_pilon.1431	429	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.1431	429	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.1431	429	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_2_pilon.590	3588	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_2_pilon.590	3588	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_2_pilon.590	3588	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_2_pilon.590	3588	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_2_pilon.590	3588	INTACT_PERC_INTACT_M 0.005037783375314861
+evm.model.hic_scaffold_2_pilon.590	3588	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_2_pilon.590	3588	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_2_pilon.590	3588	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_2_pilon.590	3588	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_7_pilon.356	5224	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_7_pilon.356	5224	2	273	FS_INS	+2	unmasked	FS_1
+evm.model.hic_scaffold_7_pilon.356	5224	2	275	STOP	GGA->TAG	unmasked	STOP_1
+evm.model.hic_scaffold_7_pilon.356	5224	INTACT_PERC_IGNORE_M 0.45103857566765576
+evm.model.hic_scaffold_7_pilon.356	5224	INTACT_PERC_INTACT_M 0.8071216617210683
+evm.model.hic_scaffold_7_pilon.356	5224	INTACT_CODONS_PROP 0.9907834101382489
+evm.model.hic_scaffold_7_pilon.356	5224	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_7_pilon.356	5224	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_7_pilon.356	5224	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_2_pilon.585	3588	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_2_pilon.585	3588	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_2_pilon.585	3588	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_2_pilon.585	3588	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_2_pilon.585	3588	5	0	Deleted exon	-	masked	DEL_5
+evm.model.hic_scaffold_2_pilon.585	3588	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_2_pilon.585	3588	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_2_pilon.585	3588	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_2_pilon.585	3588	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_2_pilon.585	3588	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_2_pilon.585	3588	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.1226	14941	1	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_9_pilon.1226	14941	2	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_9_pilon.1226	14941	INTACT_PERC_IGNORE_M 0.27205882352941174
+evm.model.hic_scaffold_9_pilon.1226	14941	INTACT_PERC_INTACT_M 0.9509803921568627
+evm.model.hic_scaffold_9_pilon.1226	14941	INTACT_CODONS_PROP 0.8473282442748091
+evm.model.hic_scaffold_9_pilon.1226	14941	OUT_OF_CHAIN_PROP 0.5686274509803921
+evm.model.hic_scaffold_9_pilon.1226	14941	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.1226	14941	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_9_pilon.1477	14350	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_9_pilon.1477	14350	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_9_pilon.1477	14350	3	157	FS_DEL	-2	unmasked	FS_1
+evm.model.hic_scaffold_9_pilon.1477	14350	4	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_9_pilon.1477	14350	5	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_9_pilon.1477	14350	6	0	Missing exon	-	masked	MIS_3
+evm.model.hic_scaffold_9_pilon.1477	14350	7	0	Missing exon	-	masked	MIS_4
+evm.model.hic_scaffold_9_pilon.1477	14350	8	0	Missing exon	-	masked	MIS_5
+evm.model.hic_scaffold_9_pilon.1477	14350	9	0	Missing exon	-	masked	MIS_6
+evm.model.hic_scaffold_9_pilon.1477	14350	10	0	Missing exon	-	unmasked	MIS_7
+evm.model.hic_scaffold_9_pilon.1477	14350	11	0	Missing exon	-	masked	MIS_8
+evm.model.hic_scaffold_9_pilon.1477	14350	INTACT_PERC_IGNORE_M 0.008373205741626795
+evm.model.hic_scaffold_9_pilon.1477	14350	INTACT_PERC_INTACT_M 0.7727272727272727
+evm.model.hic_scaffold_9_pilon.1477	14350	INTACT_CODONS_PROP 0.06091370558375635
+evm.model.hic_scaffold_9_pilon.1477	14350	OUT_OF_CHAIN_PROP 0.4904306220095694
+evm.model.hic_scaffold_9_pilon.1477	14350	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_9_pilon.1477	14350	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_8_pilon.687	1469	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_8_pilon.687	1469	4	308	FS_INS	+37	unmasked	FS_1
+evm.model.hic_scaffold_8_pilon.687	1469	4	311	STOP	CGA->TAG	unmasked	STOP_1
+evm.model.hic_scaffold_8_pilon.687	1469	INTACT_PERC_IGNORE_M 0.5345794392523364
+evm.model.hic_scaffold_8_pilon.687	1469	INTACT_PERC_INTACT_M 0.5738317757009346
+evm.model.hic_scaffold_8_pilon.687	1469	INTACT_CODONS_PROP 0.9961089494163424
+evm.model.hic_scaffold_8_pilon.687	1469	OUT_OF_CHAIN_PROP 0.03925233644859813
+evm.model.hic_scaffold_8_pilon.687	1469	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_8_pilon.687	1469	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_7_pilon.179	1482	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_7_pilon.179	1482	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_7_pilon.179	1482	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_7_pilon.179	1482	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_7_pilon.179	1482	5	0	Deleted exon	-	masked	DEL_5
+evm.model.hic_scaffold_7_pilon.179	1482	6	0	Deleted exon	-	masked	DEL_6
+evm.model.hic_scaffold_7_pilon.179	1482	7	0	Deleted exon	-	masked	DEL_7
+evm.model.hic_scaffold_7_pilon.179	1482	8	0	Deleted exon	-	masked	DEL_8
+evm.model.hic_scaffold_7_pilon.179	1482	9	0	Deleted exon	-	masked	DEL_9
+evm.model.hic_scaffold_7_pilon.179	1482	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_7_pilon.179	1482	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_7_pilon.179	1482	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_7_pilon.179	1482	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_7_pilon.179	1482	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_7_pilon.179	1482	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_8_pilon.882	1456	8	1	SSM	('gt', 'gc')->tc	unmasked	SSM_1
+evm.model.hic_scaffold_8_pilon.882	1456	INTACT_PERC_IGNORE_M 0.7701754385964912
+evm.model.hic_scaffold_8_pilon.882	1456	INTACT_PERC_INTACT_M 0.7701754385964912
+evm.model.hic_scaffold_8_pilon.882	1456	INTACT_CODONS_PROP 0.9991228070175439
+evm.model.hic_scaffold_8_pilon.882	1456	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_8_pilon.882	1456	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_8_pilon.882	1456	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.1220	-1	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_9_pilon.1220	-1	2	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_9_pilon.1220	-1	3	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_9_pilon.1220	-1	6	0	Missing exon	-	masked	MIS_4
+evm.model.hic_scaffold_9_pilon.1220	-1	7	0	Missing exon	-	unmasked	MIS_5
+evm.model.hic_scaffold_9_pilon.1220	-1	INTACT_PERC_IGNORE_M 0.2672413793103448
+evm.model.hic_scaffold_9_pilon.1220	-1	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_9_pilon.1220	-1	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_9_pilon.1220	-1	OUT_OF_CHAIN_PROP 0.5982758620689655
+evm.model.hic_scaffold_9_pilon.1220	-1	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.1220	-1	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_2_pilon.785	230	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_2_pilon.785	230	2	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_2_pilon.785	230	3	160	FS_DEL	-1	unmasked	FS_1
+evm.model.hic_scaffold_2_pilon.785	230	3	191	FS_DEL	-1	unmasked	FS_2
+evm.model.hic_scaffold_2_pilon.785	230	4	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_2_pilon.785	230	INTACT_PERC_IGNORE_M 0.10476190476190476
+evm.model.hic_scaffold_2_pilon.785	230	INTACT_PERC_INTACT_M 0.4380952380952381
+evm.model.hic_scaffold_2_pilon.785	230	INTACT_CODONS_PROP 0.3238095238095238
+evm.model.hic_scaffold_2_pilon.785	230	OUT_OF_CHAIN_PROP 0.11428571428571428
+evm.model.hic_scaffold_2_pilon.785	230	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_2_pilon.785	230	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_7_pilon.1445	365	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_7_pilon.1445	365	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_7_pilon.1445	365	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_7_pilon.1445	365	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_7_pilon.1445	365	5	0	Deleted exon	-	masked	DEL_5
+evm.model.hic_scaffold_7_pilon.1445	48	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_7_pilon.1445	48	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_7_pilon.1445	48	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_7_pilon.1445	48	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_7_pilon.1445	48	5	0	Deleted exon	-	masked	DEL_5
+evm.model.hic_scaffold_7_pilon.1445	48	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_7_pilon.1445	365	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_7_pilon.1445	48	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_7_pilon.1445	365	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_7_pilon.1445	48	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_7_pilon.1445	365	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_7_pilon.1445	48	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_7_pilon.1445	365	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_7_pilon.1445	48	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_7_pilon.1445	365	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_7_pilon.1445	48	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_7_pilon.1445	365	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.984	20187	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.984	20187	3	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_3_pilon.984	20187	INTACT_PERC_IGNORE_M 0.1044776119402985
+evm.model.hic_scaffold_3_pilon.984	20187	INTACT_PERC_INTACT_M 0.9925373134328358
+evm.model.hic_scaffold_3_pilon.984	20187	INTACT_CODONS_PROP 0.9333333333333333
+evm.model.hic_scaffold_3_pilon.984	20187	OUT_OF_CHAIN_PROP 0.7686567164179104
+evm.model.hic_scaffold_3_pilon.984	20187	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.984	20187	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_7_pilon.257	9	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_7_pilon.257	9	2	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_7_pilon.257	9	3	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_7_pilon.257	9	4	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_7_pilon.257	9	5	0	Missing exon	-	unmasked	MIS_5
+evm.model.hic_scaffold_7_pilon.257	9	6	0	Missing exon	-	masked	MIS_6
+evm.model.hic_scaffold_7_pilon.257	9	7	0	Missing exon	-	masked	MIS_7
+evm.model.hic_scaffold_7_pilon.257	9	8	0	Missing exon	-	unmasked	MIS_8
+evm.model.hic_scaffold_7_pilon.257	9	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_7_pilon.257	9	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_7_pilon.257	9	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_7_pilon.257	9	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_7_pilon.257	9	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_7_pilon.257	9	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_9_pilon.898	4	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_9_pilon.898	4	2	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_9_pilon.898	4	3	0	Missing exon	-	masked	MIS_3
+evm.model.hic_scaffold_9_pilon.898	4	4	0	Missing exon	-	masked	MIS_4
+evm.model.hic_scaffold_9_pilon.898	5307	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_9_pilon.898	5307	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_9_pilon.898	5307	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_9_pilon.898	5307	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_9_pilon.898	4	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_9_pilon.898	5307	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_9_pilon.898	4	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_9_pilon.898	5307	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_9_pilon.898	4	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_9_pilon.898	5307	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_9_pilon.898	4	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.898	5307	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.898	4	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.898	5307	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.898	4	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_9_pilon.898	5307	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.1227	3077	INTACT_PERC_IGNORE_M 0.988479262672811
+evm.model.hic_scaffold_9_pilon.1227	3077	INTACT_PERC_INTACT_M 0.988479262672811
+evm.model.hic_scaffold_9_pilon.1227	3077	INTACT_CODONS_PROP 0.988479262672811
+evm.model.hic_scaffold_9_pilon.1227	3077	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.1227	3077	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.1227	3077	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.1210	1283	3	0	SSM	('ag',)->cg	unmasked	SSM_1
+evm.model.hic_scaffold_3_pilon.1210	1283	INTACT_PERC_IGNORE_M 0.5089430894308943
+evm.model.hic_scaffold_3_pilon.1210	1283	INTACT_PERC_INTACT_M 0.5089430894308943
+evm.model.hic_scaffold_3_pilon.1210	1283	INTACT_CODONS_PROP 0.9691056910569106
+evm.model.hic_scaffold_3_pilon.1210	1283	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.1210	1283	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_3_pilon.1210	1283	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.899	4	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_9_pilon.899	4	2	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_9_pilon.899	4	3	0	Missing exon	-	masked	MIS_3
+evm.model.hic_scaffold_9_pilon.899	4	4	0	Missing exon	-	masked	MIS_4
+evm.model.hic_scaffold_9_pilon.899	5307	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_9_pilon.899	5307	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_9_pilon.899	5307	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_9_pilon.899	5307	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_9_pilon.899	4	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_9_pilon.899	5307	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_9_pilon.899	4	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_9_pilon.899	5307	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_9_pilon.899	4	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_9_pilon.899	5307	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_9_pilon.899	4	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.899	5307	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.899	4	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.899	5307	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.899	4	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_9_pilon.899	5307	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_6_pilon.769	5207	1	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_6_pilon.769	5207	2	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_6_pilon.769	5207	3	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_6_pilon.769	5207	4	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_6_pilon.769	5207	5	0	Missing exon	-	masked	MIS_5
+evm.model.hic_scaffold_6_pilon.769	5207	6	0	Missing exon	-	unmasked	MIS_6
+evm.model.hic_scaffold_6_pilon.769	5207	7	0	Missing exon	-	unmasked	MIS_7
+evm.model.hic_scaffold_6_pilon.769	5207	8	0	Missing exon	-	unmasked	MIS_8
+evm.model.hic_scaffold_6_pilon.769	5207	9	0	Missing exon	-	unmasked	MIS_9
+evm.model.hic_scaffold_6_pilon.769	5207	10	0	Missing exon	-	unmasked	MIS_10
+evm.model.hic_scaffold_6_pilon.769	5207	11	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_6_pilon.769	5207	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_6_pilon.769	5207	INTACT_PERC_INTACT_M 0.9775828460038987
+evm.model.hic_scaffold_6_pilon.769	5207	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_6_pilon.769	5207	OUT_OF_CHAIN_PROP 0.9142300194931774
+evm.model.hic_scaffold_6_pilon.769	5207	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_6_pilon.769	5207	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_9_pilon.1615	742	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_9_pilon.1615	742	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_9_pilon.1615	742	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_9_pilon.1615	742	INTACT_PERC_INTACT_M 0.004545454545454545
+evm.model.hic_scaffold_9_pilon.1615	742	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_9_pilon.1615	742	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.1615	742	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.1615	742	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_7_pilon.258	-1	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_7_pilon.258	-1	INTACT_PERC_IGNORE_M 0.7192429022082019
+evm.model.hic_scaffold_7_pilon.258	-1	INTACT_PERC_INTACT_M 0.9589905362776026
+evm.model.hic_scaffold_7_pilon.258	-1	INTACT_CODONS_PROP 0.946058091286307
+evm.model.hic_scaffold_7_pilon.258	-1	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_7_pilon.258	-1	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_7_pilon.258	-1	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.353	10126	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_3_pilon.353	10126	2	0	SSM	('ag',)->-t	unmasked	SSM_2
+evm.model.hic_scaffold_3_pilon.353	13355	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_3_pilon.353	13355	2	0	SSM	('ag',)->ga	unmasked	SSM_2
+evm.model.hic_scaffold_3_pilon.353	18218	2	231	FS_DEL	-2	masked	FS_1
+evm.model.hic_scaffold_3_pilon.353	1906	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_3_pilon.353	1906	2	216	FS_INS	+1	masked	FS_1
+evm.model.hic_scaffold_3_pilon.353	24444	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.353	7725	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.353	7966	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.353	8994	2	81	FS_INS	+4	unmasked	FS_1
+evm.model.hic_scaffold_3_pilon.353	1906	INTACT_PERC_IGNORE_M 0.9747899159663865
+evm.model.hic_scaffold_3_pilon.353	8994	INTACT_PERC_IGNORE_M 0.6596638655462185
+evm.model.hic_scaffold_3_pilon.353	12944	INTACT_PERC_IGNORE_M 0.592436974789916
+evm.model.hic_scaffold_3_pilon.353	18729	INTACT_PERC_IGNORE_M 0.6974789915966386
+evm.model.hic_scaffold_3_pilon.353	7725	INTACT_PERC_IGNORE_M 0.01680672268907563
+evm.model.hic_scaffold_3_pilon.353	10126	INTACT_PERC_IGNORE_M 0.3949579831932773
+evm.model.hic_scaffold_3_pilon.353	24444	INTACT_PERC_IGNORE_M 0.01680672268907563
+evm.model.hic_scaffold_3_pilon.353	7966	INTACT_PERC_IGNORE_M 0.01680672268907563
+evm.model.hic_scaffold_3_pilon.353	13355	INTACT_PERC_IGNORE_M 0.24789915966386555
+evm.model.hic_scaffold_3_pilon.353	18218	INTACT_PERC_IGNORE_M 0.8865546218487395
+evm.model.hic_scaffold_3_pilon.353	1906	INTACT_PERC_INTACT_M 0.9915966386554622
+evm.model.hic_scaffold_3_pilon.353	8994	INTACT_PERC_INTACT_M 0.6596638655462185
+evm.model.hic_scaffold_3_pilon.353	12944	INTACT_PERC_INTACT_M 0.592436974789916
+evm.model.hic_scaffold_3_pilon.353	18729	INTACT_PERC_INTACT_M 0.6974789915966386
+evm.model.hic_scaffold_3_pilon.353	7725	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.353	10126	INTACT_PERC_INTACT_M 0.3949579831932773
+evm.model.hic_scaffold_3_pilon.353	24444	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.353	7966	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.353	13355	INTACT_PERC_INTACT_M 0.24789915966386555
+evm.model.hic_scaffold_3_pilon.353	18218	INTACT_PERC_INTACT_M 0.8865546218487395
+evm.model.hic_scaffold_3_pilon.353	1906	INTACT_CODONS_PROP 0.9914529914529915
+evm.model.hic_scaffold_3_pilon.353	8994	INTACT_CODONS_PROP 0.9957983193277311
+evm.model.hic_scaffold_3_pilon.353	12944	INTACT_CODONS_PROP 0.592436974789916
+evm.model.hic_scaffold_3_pilon.353	18729	INTACT_CODONS_PROP 0.6974789915966386
+evm.model.hic_scaffold_3_pilon.353	7725	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.353	10126	INTACT_CODONS_PROP 0.4017094017094017
+evm.model.hic_scaffold_3_pilon.353	24444	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.353	7966	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.353	13355	INTACT_CODONS_PROP 0.25213675213675213
+evm.model.hic_scaffold_3_pilon.353	18218	INTACT_CODONS_PROP 0.8865546218487395
+evm.model.hic_scaffold_3_pilon.353	1906	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.353	8994	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.353	12944	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.353	18729	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.353	7725	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.353	10126	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.353	24444	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.353	7966	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.353	13355	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.353	18218	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.353	1906	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.353	8994	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_3_pilon.353	12944	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.353	18729	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.353	7725	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.353	10126	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.353	24444	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.353	7966	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.353	13355	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.353	18218	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.353	1906	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.353	8994	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.353	12944	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.353	18729	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.353	7725	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.353	10126	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.353	24444	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.353	7966	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.353	13355	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.353	18218	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_8_pilon.894	2684	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_8_pilon.894	2684	2	0	Deleted exon	-	unmasked	DEL_2
+evm.model.hic_scaffold_8_pilon.894	2684	3	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_8_pilon.894	2684	4	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_8_pilon.894	2684	5	0	Missing exon	-	masked	MIS_3
+evm.model.hic_scaffold_8_pilon.894	2684	6	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_8_pilon.894	2684	7	0	Missing exon	-	masked	MIS_5
+evm.model.hic_scaffold_8_pilon.894	2684	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_8_pilon.894	2684	INTACT_PERC_INTACT_M 0.9605488850771869
+evm.model.hic_scaffold_8_pilon.894	2684	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_8_pilon.894	2684	OUT_OF_CHAIN_PROP 0.869639794168096
+evm.model.hic_scaffold_8_pilon.894	2684	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_8_pilon.894	2684	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_10_pilon.1132	1348	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_10_pilon.1132	1348	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_10_pilon.1132	1348	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_10_pilon.1132	1348	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_10_pilon.1132	1348	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_10_pilon.1132	1348	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_10_pilon.1132	1348	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_3_pilon.989	30351	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.989	30351	3	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_3_pilon.989	30351	4	0	Missing exon	-	masked	MIS_3
+evm.model.hic_scaffold_3_pilon.989	30351	5	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_3_pilon.989	30351	6	0	Missing exon	-	masked	MIS_5
+evm.model.hic_scaffold_3_pilon.989	30351	INTACT_PERC_IGNORE_M 0.119281045751634
+evm.model.hic_scaffold_3_pilon.989	30351	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.989	30351	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.989	30351	OUT_OF_CHAIN_PROP 0.880718954248366
+evm.model.hic_scaffold_3_pilon.989	30351	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.989	30351	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.987	25	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_3_pilon.987	25	2	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_3_pilon.987	25	3	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_3_pilon.987	25	4	0	Missing exon	-	masked	MIS_4
+evm.model.hic_scaffold_3_pilon.987	25	5	0	Missing exon	-	unmasked	MIS_5
+evm.model.hic_scaffold_3_pilon.987	25	6	0	Missing exon	-	unmasked	MIS_6
+evm.model.hic_scaffold_3_pilon.987	25	7	0	Missing exon	-	unmasked	MIS_7
+evm.model.hic_scaffold_3_pilon.987	25	8	0	Missing exon	-	masked	MIS_8
+evm.model.hic_scaffold_3_pilon.987	25	9	0	Missing exon	-	unmasked	MIS_9
+evm.model.hic_scaffold_3_pilon.987	25	10	0	Missing exon	-	unmasked	MIS_10
+evm.model.hic_scaffold_3_pilon.987	25	11	0	Missing exon	-	unmasked	MIS_11
+evm.model.hic_scaffold_3_pilon.987	25	12	0	Missing exon	-	unmasked	MIS_12
+evm.model.hic_scaffold_3_pilon.987	25	13	0	Missing exon	-	unmasked	MIS_13
+evm.model.hic_scaffold_3_pilon.987	25	14	0	Missing exon	-	unmasked	MIS_14
+evm.model.hic_scaffold_3_pilon.987	25	15	0	Missing exon	-	masked	MIS_15
+evm.model.hic_scaffold_3_pilon.987	25	16	0	Missing exon	-	masked	MIS_16
+evm.model.hic_scaffold_3_pilon.987	25	17	0	Missing exon	-	unmasked	MIS_17
+evm.model.hic_scaffold_3_pilon.987	25	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_3_pilon.987	25	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.987	25	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.987	25	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.987	25	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.987	25	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_7_pilon.499	22955	1	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_7_pilon.499	22955	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_7_pilon.499	22955	3	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_7_pilon.499	22955	4	0	Missing exon	-	masked	MIS_3
+evm.model.hic_scaffold_7_pilon.499	22955	5	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_7_pilon.499	22955	6	0	Missing exon	-	masked	MIS_5
+evm.model.hic_scaffold_7_pilon.499	22955	7	0	Missing exon	-	masked	MIS_6
+evm.model.hic_scaffold_7_pilon.499	22955	8	0	Missing exon	-	masked	MIS_7
+evm.model.hic_scaffold_7_pilon.499	22955	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_7_pilon.499	22955	INTACT_PERC_INTACT_M 0.9650067294751009
+evm.model.hic_scaffold_7_pilon.499	22955	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_7_pilon.499	22955	OUT_OF_CHAIN_PROP 0.9650067294751009
+evm.model.hic_scaffold_7_pilon.499	22955	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_7_pilon.499	22955	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_7_pilon.1511	9499	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_7_pilon.1511	9499	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_7_pilon.1511	9499	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_7_pilon.1511	9499	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_7_pilon.1511	9499	6	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_7_pilon.1511	9499	INTACT_PERC_IGNORE_M 0.004796163069544364
+evm.model.hic_scaffold_7_pilon.1511	9499	INTACT_PERC_INTACT_M 0.2014388489208633
+evm.model.hic_scaffold_7_pilon.1511	9499	INTACT_CODONS_PROP 0.005970149253731343
+evm.model.hic_scaffold_7_pilon.1511	9499	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_7_pilon.1511	9499	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_7_pilon.1511	9499	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_10_pilon.1241	6	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_10_pilon.1241	6	2	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_10_pilon.1241	6	3	0	Missing exon	-	masked	MIS_3
+evm.model.hic_scaffold_10_pilon.1241	6	4	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_10_pilon.1241	6	6	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_10_pilon.1241	6	7	431	FS_DEL	-2	unmasked	FS_1
+evm.model.hic_scaffold_10_pilon.1241	6	INTACT_PERC_IGNORE_M 0.49649532710280375
+evm.model.hic_scaffold_10_pilon.1241	6	INTACT_PERC_INTACT_M 0.49649532710280375
+evm.model.hic_scaffold_10_pilon.1241	6	INTACT_CODONS_PROP 0.9776876267748479
+evm.model.hic_scaffold_10_pilon.1241	6	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_10_pilon.1241	6	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_10_pilon.1241	6	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_6_pilon.480	12812	2	0	SSM	('ag',)->aa	unmasked	SSM_1
+evm.model.hic_scaffold_6_pilon.480	12812	2	1	SSM	('gt', 'gc')->tt	unmasked	SSM_2
+evm.model.hic_scaffold_6_pilon.480	12812	3	0	SSM	('ag',)->gg	unmasked	SSM_3
+evm.model.hic_scaffold_6_pilon.480	12812	4	0	SSM	('ag',)->ca	unmasked	SSM_4
+evm.model.hic_scaffold_6_pilon.480	12812	5	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_6_pilon.480	12812	6	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_6_pilon.480	12812	7	0	Missing exon	-	masked	MIS_3
+evm.model.hic_scaffold_6_pilon.480	12812	8	0	Missing exon	-	masked	MIS_4
+evm.model.hic_scaffold_6_pilon.480	13299	2	1	SSM	('gt', 'gc')->ta	unmasked	SSM_1
+evm.model.hic_scaffold_6_pilon.480	13299	2	46	FS_DEL	-1	masked	FS_1
+evm.model.hic_scaffold_6_pilon.480	13299	2	163	FS_DEL	-1	unmasked	FS_2
+evm.model.hic_scaffold_6_pilon.480	13299	2	181	FS_DEL	-1	unmasked	FS_3
+evm.model.hic_scaffold_6_pilon.480	13299	3	0	SSM	('ag',)->cg	unmasked	SSM_2
+evm.model.hic_scaffold_6_pilon.480	13299	4	344	COMPENSATION	FS_4,5	unmasked	C_1
+evm.model.hic_scaffold_6_pilon.480	13299	4	344	FS_DEL	-1	masked	FS_4
+evm.model.hic_scaffold_6_pilon.480	13299	4	419	FS_DEL	-2	masked	FS_5
+evm.model.hic_scaffold_6_pilon.480	13299	5	0	SSM	('ag',)->cg	unmasked	SSM_3
+evm.model.hic_scaffold_6_pilon.480	13299	5	443	FS_INS	+2	unmasked	FS_6
+evm.model.hic_scaffold_6_pilon.480	13299	5	499	STOP	ACC->TGA	unmasked	STOP_1
+evm.model.hic_scaffold_6_pilon.480	13299	6	0	SSM	('ag',)->ta	unmasked	SSM_4
+evm.model.hic_scaffold_6_pilon.480	13299	6	598	COMPENSATION	FS_7,8	unmasked	C_2
+evm.model.hic_scaffold_6_pilon.480	13299	6	598	FS_DEL	-2	masked	FS_7
+evm.model.hic_scaffold_6_pilon.480	13299	7	603	FS_INS	+20	masked	FS_8
+evm.model.hic_scaffold_6_pilon.480	13897	2	0	SSM	('ag',)->ga	unmasked	SSM_1
+evm.model.hic_scaffold_6_pilon.480	13897	2	120	FS_INS	+2	unmasked	FS_1
+evm.model.hic_scaffold_6_pilon.480	13897	2	126	FS_INS	+2	unmasked	FS_2
+evm.model.hic_scaffold_6_pilon.480	13897	3	276	COMPENSATION	FS_3,4	unmasked	C_1
+evm.model.hic_scaffold_6_pilon.480	13897	3	276	FS_DEL	-2	masked	FS_3
+evm.model.hic_scaffold_6_pilon.480	13897	4	344	FS_DEL	-1	masked	FS_4
+evm.model.hic_scaffold_6_pilon.480	13897	4	419	COMPENSATION	FS_5,6	unmasked	C_2
+evm.model.hic_scaffold_6_pilon.480	13897	4	419	FS_DEL	-2	masked	FS_5
+evm.model.hic_scaffold_6_pilon.480	13897	5	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_6_pilon.480	13897	6	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_6_pilon.480	13897	7	0	Missing exon	-	masked	MIS_3
+evm.model.hic_scaffold_6_pilon.480	13897	8	0	Missing exon	-	masked	MIS_4
+evm.model.hic_scaffold_6_pilon.480	15185	2	0	SSM	('ag',)->aa	unmasked	SSM_1
+evm.model.hic_scaffold_6_pilon.480	15185	3	0	SSM	('ag',)->tt	unmasked	SSM_2
+evm.model.hic_scaffold_6_pilon.480	15185	5	0	SSM	('ag',)->tc	unmasked	SSM_3
+evm.model.hic_scaffold_6_pilon.480	15185	5	1	SSM	('gt', 'gc')->ca	unmasked	SSM_4
+evm.model.hic_scaffold_6_pilon.480	15185	6	510	FS_DEL	-2	unmasked	FS_1
+evm.model.hic_scaffold_6_pilon.480	15185	7	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_6_pilon.480	15185	8	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_6_pilon.480	15208	1	1	SSM	('gt', 'gc')->gg	unmasked	SSM_1
+evm.model.hic_scaffold_6_pilon.480	15208	2	147	FS_INS	+2	unmasked	FS_1
+evm.model.hic_scaffold_6_pilon.480	15208	2	153	FS_DEL	-2	unmasked	FS_2
+evm.model.hic_scaffold_6_pilon.480	15208	4	0	SSM	('ag',)->gg	unmasked	SSM_2
+evm.model.hic_scaffold_6_pilon.480	15208	5	1	SSM	('gt', 'gc')->tt	unmasked	SSM_3
+evm.model.hic_scaffold_6_pilon.480	15208	5	421	FS_DEL	-2	unmasked	FS_3
+evm.model.hic_scaffold_6_pilon.480	15208	6	0	SSM	('ag',)->gc	unmasked	SSM_4
+evm.model.hic_scaffold_6_pilon.480	15208	7	0	SSM	('ag',)->cc	unmasked	SSM_5
+evm.model.hic_scaffold_6_pilon.480	15208	8	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_6_pilon.480	16053	2	0	SSM	('ag',)->ga	unmasked	SSM_1
+evm.model.hic_scaffold_6_pilon.480	16053	5	0	SSM	('ag',)->tt	unmasked	SSM_2
+evm.model.hic_scaffold_6_pilon.480	16053	7	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_6_pilon.480	16053	8	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_6_pilon.480	16154	1	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_6_pilon.480	16154	2	0	Deleted exon	-	unmasked	DEL_2
+evm.model.hic_scaffold_6_pilon.480	16154	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_6_pilon.480	16154	4	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_6_pilon.480	16154	5	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_6_pilon.480	16154	6	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_6_pilon.480	16154	7	0	Missing exon	-	masked	MIS_4
+evm.model.hic_scaffold_6_pilon.480	16154	8	0	Missing exon	-	masked	MIS_5
+evm.model.hic_scaffold_6_pilon.480	17684	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_6_pilon.480	17684	2	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_6_pilon.480	17684	3	0	Missing exon	-	masked	MIS_3
+evm.model.hic_scaffold_6_pilon.480	17684	4	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_6_pilon.480	17684	5	0	Missing exon	-	masked	MIS_5
+evm.model.hic_scaffold_6_pilon.480	17684	6	0	Missing exon	-	unmasked	MIS_6
+evm.model.hic_scaffold_6_pilon.480	17684	7	0	Missing exon	-	masked	MIS_7
+evm.model.hic_scaffold_6_pilon.480	17684	8	0	Missing exon	-	masked	MIS_8
+evm.model.hic_scaffold_6_pilon.480	2181	1	1	SSM	('gt', 'gc')->gg	unmasked	SSM_1
+evm.model.hic_scaffold_6_pilon.480	2181	2	0	SSM	('ag',)->ga	unmasked	SSM_2
+evm.model.hic_scaffold_6_pilon.480	2181	2	1	SSM	('gt', 'gc')->cc	unmasked	SSM_3
+evm.model.hic_scaffold_6_pilon.480	2181	2	125	FS_INS	+59	unmasked	FS_1
+evm.model.hic_scaffold_6_pilon.480	2181	2	130	STOP	ATT->TAG	unmasked	STOP_1
+evm.model.hic_scaffold_6_pilon.480	2181	2	183	FS_INS	+58	unmasked	FS_2
+evm.model.hic_scaffold_6_pilon.480	2181	3	0	SSM	('ag',)->gg	unmasked	SSM_4
+evm.model.hic_scaffold_6_pilon.480	2181	3	1	SSM	('gt', 'gc')->--	masked	SSM_5
+evm.model.hic_scaffold_6_pilon.480	2181	4	0	SSM	('ag',)->--	masked	SSM_6
+evm.model.hic_scaffold_6_pilon.480	2181	4	1	SSM	('gt', 'gc')->--	masked	SSM_7
+evm.model.hic_scaffold_6_pilon.480	2181	5	0	SSM	('ag',)->--	masked	SSM_8
+evm.model.hic_scaffold_6_pilon.480	2181	5	444	FS_DEL	-2	unmasked	FS_3
+evm.model.hic_scaffold_6_pilon.480	2181	6	1	SSM	('gt', 'gc')->--	masked	SSM_9
+evm.model.hic_scaffold_6_pilon.480	2181	6	500	FS_DEL	-2	unmasked	FS_4
+evm.model.hic_scaffold_6_pilon.480	2181	7	0	SSM	('ag',)->--	masked	SSM_10
+evm.model.hic_scaffold_6_pilon.480	2181	7	1	SSM	('gt', 'gc')->--	masked	SSM_11
+evm.model.hic_scaffold_6_pilon.480	2181	7	672	FS_INS	+4	unmasked	FS_5
+evm.model.hic_scaffold_6_pilon.480	2181	7	674	STOP	GAA->TAG	unmasked	STOP_2
+evm.model.hic_scaffold_6_pilon.480	2181	8	0	SSM	('ag',)->--	masked	SSM_12
+evm.model.hic_scaffold_6_pilon.480	23070	2	0	SSM	('ag',)->ga	unmasked	SSM_1
+evm.model.hic_scaffold_6_pilon.480	23070	5	0	SSM	('ag',)->tt	unmasked	SSM_2
+evm.model.hic_scaffold_6_pilon.480	23070	7	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_6_pilon.480	23070	8	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_6_pilon.480	23396	1	4	FS_INS	+2	masked	FS_1
+evm.model.hic_scaffold_6_pilon.480	23396	2	0	SSM	('ag',)->ga	unmasked	SSM_1
+evm.model.hic_scaffold_6_pilon.480	23396	2	1	SSM	('gt', 'gc')->--	masked	SSM_2
+evm.model.hic_scaffold_6_pilon.480	23396	3	0	SSM	('ag',)->--	masked	SSM_3
+evm.model.hic_scaffold_6_pilon.480	23396	3	1	SSM	('gt', 'gc')->ga	unmasked	SSM_4
+evm.model.hic_scaffold_6_pilon.480	23396	5	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_6_pilon.480	23396	6	0	SSM	('ag',)->--	masked	SSM_6
+evm.model.hic_scaffold_6_pilon.480	23396	6	1	SSM	('gt', 'gc')->ct	unmasked	SSM_7
+evm.model.hic_scaffold_6_pilon.480	23396	8	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_6_pilon.480	23770	1	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_6_pilon.480	23770	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_6_pilon.480	23770	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_6_pilon.480	23770	4	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_6_pilon.480	23770	5	0	Deleted exon	-	masked	DEL_5
+evm.model.hic_scaffold_6_pilon.480	23770	6	0	SSM	('ag',)->ct	unmasked	SSM_5
+evm.model.hic_scaffold_6_pilon.480	23770	6	1	SSM	('gt', 'gc')->tt	unmasked	SSM_6
+evm.model.hic_scaffold_6_pilon.480	23770	7	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_6_pilon.480	23770	8	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_6_pilon.480	266	3	267	FS_INS	+1	unmasked	FS_1
+evm.model.hic_scaffold_6_pilon.480	266	4	1	SSM	('gt', 'gc')->--	masked	SSM_1
+evm.model.hic_scaffold_6_pilon.480	266	5	0	SSM	('ag',)->--	masked	SSM_2
+evm.model.hic_scaffold_6_pilon.480	29329	2	0	Deleted exon	-	unmasked	DEL_1
+evm.model.hic_scaffold_6_pilon.480	29329	3	0	SSM	('ag',)->ac	unmasked	SSM_1
+evm.model.hic_scaffold_6_pilon.480	29329	4	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_6_pilon.480	29329	5	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_6_pilon.480	29329	6	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_6_pilon.480	29329	7	0	Missing exon	-	masked	MIS_4
+evm.model.hic_scaffold_6_pilon.480	29329	8	0	Missing exon	-	masked	MIS_5
+evm.model.hic_scaffold_6_pilon.480	266	INTACT_PERC_IGNORE_M 0.6670822942643392
+evm.model.hic_scaffold_6_pilon.480	2181	INTACT_PERC_IGNORE_M 0.21571072319201995
+evm.model.hic_scaffold_6_pilon.480	12812	INTACT_PERC_IGNORE_M 0.2743142144638404
+evm.model.hic_scaffold_6_pilon.480	13299	INTACT_PERC_IGNORE_M 0.33541147132169574
+evm.model.hic_scaffold_6_pilon.480	13897	INTACT_PERC_IGNORE_M 0.2880299251870324
+evm.model.hic_scaffold_6_pilon.480	15185	INTACT_PERC_IGNORE_M 0.2805486284289277
+evm.model.hic_scaffold_6_pilon.480	15208	INTACT_PERC_IGNORE_M 0.18079800498753118
+evm.model.hic_scaffold_6_pilon.480	16154	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_6_pilon.480	17684	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_6_pilon.480	29329	INTACT_PERC_IGNORE_M 0.04488778054862843
+evm.model.hic_scaffold_6_pilon.480	16053	INTACT_PERC_IGNORE_M 0.39526184538653364
+evm.model.hic_scaffold_6_pilon.480	23070	INTACT_PERC_IGNORE_M 0.39526184538653364
+evm.model.hic_scaffold_6_pilon.480	23396	INTACT_PERC_IGNORE_M 0.34538653366583544
+evm.model.hic_scaffold_6_pilon.480	23770	INTACT_PERC_IGNORE_M 0.10224438902743142
+evm.model.hic_scaffold_6_pilon.480	266	INTACT_PERC_INTACT_M 0.6670822942643392
+evm.model.hic_scaffold_6_pilon.480	2181	INTACT_PERC_INTACT_M 0.21571072319201995
+evm.model.hic_scaffold_6_pilon.480	12812	INTACT_PERC_INTACT_M 0.5561097256857855
+evm.model.hic_scaffold_6_pilon.480	13299	INTACT_PERC_INTACT_M 0.33541147132169574
+evm.model.hic_scaffold_6_pilon.480	13897	INTACT_PERC_INTACT_M 0.7668329177057357
+evm.model.hic_scaffold_6_pilon.480	15185	INTACT_PERC_INTACT_M 0.3491271820448878
+evm.model.hic_scaffold_6_pilon.480	15208	INTACT_PERC_INTACT_M 0.2082294264339152
+evm.model.hic_scaffold_6_pilon.480	16154	INTACT_PERC_INTACT_M 0.587281795511222
+evm.model.hic_scaffold_6_pilon.480	17684	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_6_pilon.480	29329	INTACT_PERC_INTACT_M 0.6321695760598504
+evm.model.hic_scaffold_6_pilon.480	16053	INTACT_PERC_INTACT_M 0.39900249376558605
+evm.model.hic_scaffold_6_pilon.480	23070	INTACT_PERC_INTACT_M 0.39900249376558605
+evm.model.hic_scaffold_6_pilon.480	23396	INTACT_PERC_INTACT_M 0.34538653366583544
+evm.model.hic_scaffold_6_pilon.480	23770	INTACT_PERC_INTACT_M 0.24937655860349128
+evm.model.hic_scaffold_6_pilon.480	266	INTACT_CODONS_PROP 0.9975062344139651
+evm.model.hic_scaffold_6_pilon.480	2181	INTACT_CODONS_PROP 0.9576059850374065
+evm.model.hic_scaffold_6_pilon.480	12812	INTACT_CODONS_PROP 0.8755980861244019
+evm.model.hic_scaffold_6_pilon.480	13299	INTACT_CODONS_PROP 0.7680798004987531
+evm.model.hic_scaffold_6_pilon.480	13897	INTACT_CODONS_PROP 0.784688995215311
+evm.model.hic_scaffold_6_pilon.480	15185	INTACT_CODONS_PROP 0.8704318936877077
+evm.model.hic_scaffold_6_pilon.480	15208	INTACT_CODONS_PROP 0.8460526315789474
+evm.model.hic_scaffold_6_pilon.480	16154	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_6_pilon.480	17684	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_6_pilon.480	29329	INTACT_CODONS_PROP 0.17522658610271905
+evm.model.hic_scaffold_6_pilon.480	16053	INTACT_CODONS_PROP 0.770764119601329
+evm.model.hic_scaffold_6_pilon.480	23070	INTACT_CODONS_PROP 0.770764119601329
+evm.model.hic_scaffold_6_pilon.480	23396	INTACT_CODONS_PROP 0.7328947368421053
+evm.model.hic_scaffold_6_pilon.480	23770	INTACT_CODONS_PROP 0.1362126245847176
+evm.model.hic_scaffold_6_pilon.480	266	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_6_pilon.480	2181	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_6_pilon.480	12812	OUT_OF_CHAIN_PROP 0.3790523690773067
+evm.model.hic_scaffold_6_pilon.480	13299	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_6_pilon.480	13897	OUT_OF_CHAIN_PROP 0.3790523690773067
+evm.model.hic_scaffold_6_pilon.480	15185	OUT_OF_CHAIN_PROP 0.05236907730673317
+evm.model.hic_scaffold_6_pilon.480	15208	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_6_pilon.480	16154	OUT_OF_CHAIN_PROP 0.47880299251870323
+evm.model.hic_scaffold_6_pilon.480	17684	OUT_OF_CHAIN_PROP 0.9588528678304239
+evm.model.hic_scaffold_6_pilon.480	29329	OUT_OF_CHAIN_PROP 0.587281795511222
+evm.model.hic_scaffold_6_pilon.480	16053	OUT_OF_CHAIN_PROP 0.05236907730673317
+evm.model.hic_scaffold_6_pilon.480	23070	OUT_OF_CHAIN_PROP 0.05236907730673317
+evm.model.hic_scaffold_6_pilon.480	23396	OUT_OF_CHAIN_PROP 0.05236907730673317
+evm.model.hic_scaffold_6_pilon.480	23770	OUT_OF_CHAIN_PROP 0.05236907730673317
+evm.model.hic_scaffold_6_pilon.480	266	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.480	2181	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.480	12812	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.480	13299	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.480	13897	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.480	15185	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.480	15208	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.480	16154	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.480	17684	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_6_pilon.480	29329	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.480	16053	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.480	23070	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.480	23396	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.480	23770	MIDDLE_80%_INTACT FALSE
+evm.model.hic_scaffold_6_pilon.480	266	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_6_pilon.480	2181	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_6_pilon.480	12812	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_6_pilon.480	13299	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_6_pilon.480	13897	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_6_pilon.480	15185	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_6_pilon.480	15208	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_6_pilon.480	16154	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_6_pilon.480	17684	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_6_pilon.480	29329	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_6_pilon.480	16053	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_6_pilon.480	23070	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_6_pilon.480	23396	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_6_pilon.480	23770	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_2_pilon.696	50	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_2_pilon.696	50	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_2_pilon.696	50	3	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_2_pilon.696	50	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_2_pilon.696	50	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_2_pilon.696	50	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_2_pilon.696	50	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_2_pilon.696	50	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_2_pilon.696	50	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.890	2853	1	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_9_pilon.890	2853	2	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_9_pilon.890	2853	3	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_9_pilon.890	2853	4	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_9_pilon.890	2853	5	0	Missing exon	-	unmasked	MIS_5
+evm.model.hic_scaffold_9_pilon.890	2853	6	0	Missing exon	-	unmasked	MIS_6
+evm.model.hic_scaffold_9_pilon.890	2853	7	0	Missing exon	-	unmasked	MIS_7
+evm.model.hic_scaffold_9_pilon.890	2853	8	0	Missing exon	-	unmasked	MIS_8
+evm.model.hic_scaffold_9_pilon.890	2853	9	0	SSM	('ag',)->--	masked	SSM_15
+evm.model.hic_scaffold_9_pilon.890	2853	10	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_9_pilon.890	2853	11	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_9_pilon.890	2853	12	0	Deleted exon	-	masked	DEL_3
+evm.model.hic_scaffold_9_pilon.890	2853	13	0	Deleted exon	-	masked	DEL_4
+evm.model.hic_scaffold_9_pilon.890	4	3	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_9_pilon.890	4	4	0	Missing exon	-	unmasked	MIS_2
+evm.model.hic_scaffold_9_pilon.890	4	5	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_9_pilon.890	4	6	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_9_pilon.890	4	7	0	Missing exon	-	unmasked	MIS_5
+evm.model.hic_scaffold_9_pilon.890	4	8	0	Missing exon	-	unmasked	MIS_6
+evm.model.hic_scaffold_9_pilon.890	4	9	0	Missing exon	-	unmasked	MIS_7
+evm.model.hic_scaffold_9_pilon.890	4	10	0	Missing exon	-	unmasked	MIS_8
+evm.model.hic_scaffold_9_pilon.890	4	11	0	Missing exon	-	unmasked	MIS_9
+evm.model.hic_scaffold_9_pilon.890	4	12	0	Missing exon	-	unmasked	MIS_10
+evm.model.hic_scaffold_9_pilon.890	4	13	0	Missing exon	-	unmasked	MIS_11
+evm.model.hic_scaffold_9_pilon.890	4	14	0	Missing exon	-	masked	MIS_12
+evm.model.hic_scaffold_9_pilon.890	4	INTACT_PERC_IGNORE_M 0.07971014492753623
+evm.model.hic_scaffold_9_pilon.890	2853	INTACT_PERC_IGNORE_M 0.1
+evm.model.hic_scaffold_9_pilon.890	4	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_9_pilon.890	2853	INTACT_PERC_INTACT_M 0.6202898550724638
+evm.model.hic_scaffold_9_pilon.890	4	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_9_pilon.890	2853	INTACT_CODONS_PROP 0.2084592145015106
+evm.model.hic_scaffold_9_pilon.890	4	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.890	2853	OUT_OF_CHAIN_PROP 0.5202898550724637
+evm.model.hic_scaffold_9_pilon.890	4	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.890	2853	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.890	4	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_9_pilon.890	2853	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.356	12944	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.356	1344	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_3_pilon.356	1344	2	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_3_pilon.356	18729	1	0	Missing exon	-	unmasked	MDEL_1
+evm.model.hic_scaffold_3_pilon.356	18729	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.356	1906	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.356	19114	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.356	8994	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_3_pilon.356	1344	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_3_pilon.356	1906	INTACT_PERC_IGNORE_M 0.013071895424836602
+evm.model.hic_scaffold_3_pilon.356	8994	INTACT_PERC_IGNORE_M 0.013071895424836602
+evm.model.hic_scaffold_3_pilon.356	12944	INTACT_PERC_IGNORE_M 0.013071895424836602
+evm.model.hic_scaffold_3_pilon.356	18729	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_3_pilon.356	19114	INTACT_PERC_IGNORE_M 0.013071895424836602
+evm.model.hic_scaffold_3_pilon.356	1344	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.356	1906	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.356	8994	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.356	12944	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.356	18729	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.356	19114	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_3_pilon.356	1344	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.356	1906	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.356	8994	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.356	12944	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.356	18729	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.356	19114	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_3_pilon.356	1344	OUT_OF_CHAIN_PROP 0.013071895424836602
+evm.model.hic_scaffold_3_pilon.356	1906	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.356	8994	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.356	12944	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.356	18729	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.356	19114	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_3_pilon.356	1344	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.356	1906	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.356	8994	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.356	12944	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.356	18729	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.356	19114	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_3_pilon.356	1344	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.356	1906	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.356	8994	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.356	12944	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.356	18729	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_3_pilon.356	19114	MIDDLE_80%_PRESENT FALSE
+evm.model.hic_scaffold_7_pilon.254	18203	INTACT_PERC_IGNORE_M 0.5229357798165137
+evm.model.hic_scaffold_7_pilon.254	18203	INTACT_PERC_INTACT_M 0.5229357798165137
+evm.model.hic_scaffold_7_pilon.254	18203	INTACT_CODONS_PROP 0.5229357798165137
+evm.model.hic_scaffold_7_pilon.254	18203	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_7_pilon.254	18203	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_7_pilon.254	18203	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_2_pilon.591	3588	1	0	Deleted exon	-	masked	DEL_1
+evm.model.hic_scaffold_2_pilon.591	3588	2	0	Deleted exon	-	masked	DEL_2
+evm.model.hic_scaffold_2_pilon.591	3588	INTACT_PERC_IGNORE_M 0.0
+evm.model.hic_scaffold_2_pilon.591	3588	INTACT_PERC_INTACT_M 0.0
+evm.model.hic_scaffold_2_pilon.591	3588	INTACT_CODONS_PROP 0.0
+evm.model.hic_scaffold_2_pilon.591	3588	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_2_pilon.591	3588	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_2_pilon.591	3588	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.895	11595	2	0	Missing exon	-	masked	MIS_1
+evm.model.hic_scaffold_9_pilon.895	11595	3	0	Missing exon	-	masked	MIS_2
+evm.model.hic_scaffold_9_pilon.895	11595	4	0	Missing exon	-	unmasked	MIS_3
+evm.model.hic_scaffold_9_pilon.895	11595	5	0	Missing exon	-	unmasked	MIS_4
+evm.model.hic_scaffold_9_pilon.895	11595	6	0	Missing exon	-	unmasked	MIS_5
+evm.model.hic_scaffold_9_pilon.895	11595	7	0	Missing exon	-	masked	MIS_6
+evm.model.hic_scaffold_9_pilon.895	11595	8	0	Missing exon	-	unmasked	MIS_7
+evm.model.hic_scaffold_9_pilon.895	11595	9	0	Missing exon	-	unmasked	MIS_8
+evm.model.hic_scaffold_9_pilon.895	11595	10	0	Missing exon	-	unmasked	MIS_9
+evm.model.hic_scaffold_9_pilon.895	11595	11	0	Missing exon	-	unmasked	MIS_10
+evm.model.hic_scaffold_9_pilon.895	11595	12	0	Missing exon	-	masked	MIS_11
+evm.model.hic_scaffold_9_pilon.895	11595	13	0	Missing exon	-	unmasked	MIS_12
+evm.model.hic_scaffold_9_pilon.895	11595	14	0	Missing exon	-	masked	MIS_13
+evm.model.hic_scaffold_9_pilon.895	11595	15	0	Missing exon	-	unmasked	MIS_14
+evm.model.hic_scaffold_9_pilon.895	11595	16	0	Missing exon	-	unmasked	MIS_15
+evm.model.hic_scaffold_9_pilon.895	11595	17	0	Missing exon	-	unmasked	MIS_16
+evm.model.hic_scaffold_9_pilon.895	11595	18	0	Missing exon	-	masked	MIS_17
+evm.model.hic_scaffold_9_pilon.895	11595	19	0	Missing exon	-	unmasked	MIS_18
+evm.model.hic_scaffold_9_pilon.895	11595	20	0	Missing exon	-	unmasked	MIS_19
+evm.model.hic_scaffold_9_pilon.895	11595	21	0	Missing exon	-	masked	MIS_20
+evm.model.hic_scaffold_9_pilon.895	4	1	0	Missing exon	-	unmasked	MIS_1
+evm.model.hic_scaffold_9_pilon.895	4	INTACT_PERC_IGNORE_M 0.989406779661017
+evm.model.hic_scaffold_9_pilon.895	11595	INTACT_PERC_IGNORE_M 0.009887005649717515
+evm.model.hic_scaffold_9_pilon.895	4	INTACT_PERC_INTACT_M 0.9992937853107344
+evm.model.hic_scaffold_9_pilon.895	11595	INTACT_PERC_INTACT_M 1.0
+evm.model.hic_scaffold_9_pilon.895	4	INTACT_CODONS_PROP 0.9992867332382311
+evm.model.hic_scaffold_9_pilon.895	11595	INTACT_CODONS_PROP 1.0
+evm.model.hic_scaffold_9_pilon.895	4	OUT_OF_CHAIN_PROP 0.0
+evm.model.hic_scaffold_9_pilon.895	11595	OUT_OF_CHAIN_PROP 0.9901129943502824
+evm.model.hic_scaffold_9_pilon.895	4	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.895	11595	MIDDLE_80%_INTACT TRUE
+evm.model.hic_scaffold_9_pilon.895	4	MIDDLE_80%_PRESENT TRUE
+evm.model.hic_scaffold_9_pilon.895	11595	MIDDLE_80%_PRESENT FALSE

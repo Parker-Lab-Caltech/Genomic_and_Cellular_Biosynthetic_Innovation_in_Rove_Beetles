@@ -1,0 +1,28 @@
+Genus	Tree Label	benzoquinones	alkanes_alkenes	aldehydes	short-med-chain esters	long-chain esters	fatty acids	terpenes	aromatics
+Adinopsis	Adi	0	0	0	0	0	0	0	0
+Deinopsis	Dei	0	0	0	0	0	0	0	0
+Gymnusa	Gym	0	0	0	0	0	0	0	0
+Aleochara sp3	Alus	1	1	1	0	0	0	0	0
+Aleochara sp1	Abil	-9	-9	-9	-9	-9	-9	-9	-9
+Aleochara sp2	Aleo	1	1	1	0	0	0	0	0
+Atheta	Atheta	1	1	0	1	0	0	0	0
+Dalotia	Dcor	1	1	0	1	0	0	0	0
+Ecitophya	Eci	0	0	0	0	0	0	0	0
+Ecitomorpha	Ene	-9	-9	-9	-9	-9	-9	-9	-9
+Ecitodaemon	Eda	-9	-9	-9	-9	-9	-9	-9	-9
+Earota	Ear	-9	-9	-9	-9	-9	-9	-9	-9
+Geostiba	Geo	1	1	0	1	0	0	0	0
+Drusilla	Dru	1	1	1	0	0	0	0	0
+Falagria	Fal	-9	-9	-9	-9	-9	-9	-9	-9
+Lissagria	Lis	1	0	0	0	0	0	0	0
+Myllaena	Myl	1	1	0	0	0	0	0	0
+Leptusa	Lep	1	0	0	1	1	0	0	0
+Liometoxenus	Liom	1	0	0	0	1	0	1	1
+Oxypoda	Oxy	1	1	1	1	1	0	0	0
+Cypha	Cyp	0	1	0	0	0	0	1	0
+Holobus	Hol	0	1	0	0	1	1	1	1
+Oligota	Oli	0	1	0	0	1	1	1	1
+Coproporus	Cop	0	0	0	0	0	0	0	0
+Sepediphilus	Sep	0	0	0	0	0	0	0	0
+Tachinus	Tac	0	0	0	0	0	0	0	0
+Nicrophorus	Nves	0	0	0	0	0	0	0	0

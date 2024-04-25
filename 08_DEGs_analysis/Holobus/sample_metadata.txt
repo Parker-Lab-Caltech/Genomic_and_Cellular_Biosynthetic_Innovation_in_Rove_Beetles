@@ -1,0 +1,11 @@
+sample	segment	batch	machine	ext_method	company	reads
+22784	control	1	HiSeq_2500	NEBnext	caltech	single
+23406	control	2	HiSeq_2500	NEBnext	caltech	single
+H13	control	3	NextSeq_2000	NEBnext	caltech	paired
+H14	control	3	NextSeq_2000	NEBnext	caltech	paired
+22783	seg7	1	HiSeq_2500	NEBnext	caltech	single
+23386	seg7	2	HiSeq_2500	NEBnext	caltech	single
+23404	seg7	2	HiSeq_2500	NEBnext	caltech	single
+H11	seg7	3	NextSeq_2000	NEBnext	caltech	paired
+H12	seg7	3	NextSeq_2000	NEBnext	caltech	paired
+22785	head	1	HiSeq_2500	NEBnext	caltech	single
