@@ -1,0 +1,67 @@
+chemical	chem_order	chemical_group	Sepediphilus	Tachinus	Gymnusa	Cypha	Oligota	Holobus	Aleochara lustrica	Aleochara nigra	Leptusa	Oxypoda	Liometoxenus	Myllaena	Lissagria	Drusilla	Platyusa	Pella	Geostiba	Atheta	Dalotia	Ecitophya
+p-toluquinone	1	BQs	0	0	0	0	0	0	2	2	2	2	1	2	2	2	2	2	1	2	2	0
+p-benzoquinone	2	BQs	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	1	2	2	0
+methoxy-BQ	3	BQs	0	0	0	0	0	0	2	2	2	1	1	2	2	2	2	1	1	2	2	0
+2-methoxy-5-methyl-BQ	4	BQs	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+2-hydroxy 3-methylhydroquinone	5	BQs	0	0	0	0	0	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0
+nonane	6	alkane_alkenes	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+decane	7	alkane_alkenes	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+undecane	8	alkane_alkenes	0	0	0	0	0	0	2	2	0	0	0	0	0	2	2	2	2	2	2	0
+undecene	9	alkane_alkenes	0	0	0	0	0	0	1	2	0	0	0	0	0	2	0	0	0	0	0	0
+dodecane	10	alkane_alkenes	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+dodecene	11	alkane_alkenes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+tridecane	12	alkane_alkenes	0	0	0	0	2	1	0	2	0	0	0	0	0	2	2	2	0	0	0	0
+tridecene	13	alkane_alkenes	0	0	0	1	0	1	2	2	0	0	0	0	0	2	0	0	0	0	0	0
+"trideca-4,7-diene"	14	alkane_alkenes	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+tetradecane	15	alkane_alkenes	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0
+tetradecene	16	alkane_alkenes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+pentadecadiene	17	alkane_alkenes	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+pentadecane	18	alkane_alkenes	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+heptadecane	19	alkane_alkenes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0
+dodecanol	20	alcohol	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+tetradecanol	21	alcohol	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+decanal	22	aldehydes	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+dodecanal	23	aldehydes	0	0	0	0	0	0	1	2	0	0	0	0	0	2	0	0	0	0	0	0
+dodecenal	24	aldehydes	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+tridecenal	25	aldehydes	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0
+tetradecanal	26	aldehydes	0	0	0	0	0	0	0	2	0	0	0	0	0	1	1	0	0	0	0	0
+tetradec-5-enal	27	aldehydes	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"tetradec-5,5-dienal"	28	aldehydes	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+neral	29	terpenes	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+nerol	30	terpenes	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+rosefuran	31	terpenes	0	0	0	2	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+geraniol	32	terpenes	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+unidentified terpenes	33	terpenes	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sulcatone	34	ketones	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+undecyl acetate	35	aliphatic esters	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+decyl acetate	36	aliphatic esters	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	1	0	0	0
+dodecyl acetate	37	aliphatic esters	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	0	0	0
+tetradecyl acetate	38	aliphatic esters	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0
+tetradecenyl acetate	39	aliphatic esters	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+hexadecenyl acetate	40	aliphatic esters	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+isoamyl propionate	41	aliphatic esters	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+ethyl decanoate	42	aliphatic esters	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0
+isopropyl decanoate	43	aliphatic esters	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	2	0
+ethyl dodecanoate	44	aliphatic esters	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0
+ethyl tetradecanoate	45	aliphatic esters	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+ethyl hexa-9-decenoate	46	aliphatic esters	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+ethyl hexadecanoate	47	aliphatic esters	0	0	0	0	0	0	0	0	2	1	2	0	0	0	0	0	0	0	0	0
+ethyl hexadecenoate	48	aliphatic esters	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+isopropyl hexadecanoate	49	aliphatic esters	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+ethyl heptadecenoate	50	aliphatic esters	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+ethyl heptadecanoate	51	aliphatic esters	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+ethyl octa-9-decenoate	52	aliphatic esters	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+ethyl octadecanoate	53	aliphatic esters	0	0	0	0	0	0	0	0	2	2	2	0	0	0	0	0	0	0	0	0
+ethyl octadecenoate	54	aliphatic esters	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0
+ethyl linoleate	55	aliphatic esters	0	0	0	0	2	2	0	0	2	2	1	0	0	0	0	0	0	0	0	0
+isopropyl linoleate	56	aliphatic esters	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+butyl linoleate	57	aliphatic esters	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+linoleaic acid	58	fatty acid	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+methyl 2-hydroxy-6-methyl-benzoate	59	aromatics	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+methyl 2-hydroxy-6-ethyl-benzoate	60	aromatics	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+methyl-benzene-diol acetate	61	aromatics	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+unknown methyl benzoate	62	aromatics	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+"3,4 dimethoxy phenyl acetate"	63	aromatics	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+"2,5-dimethoxybenzaldehyde"	64	aromatics	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3-ethoxybenzaldhyde	65	aromatics	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+unidentified solvents	66	unique solvent	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
